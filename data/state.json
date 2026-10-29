@@ -209,9 +209,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1199.99,
+      "regularPrice": 1499.99,
       "saleEndDate": null,
-      "seller": "RBSDIST",
+      "seller": "Unlimited Gaming Technology Inc",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1379,21 +1379,26 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19964/19964307.png",
+      "lastPriceChangeAt": "2026-10-29T09:56:05.301Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box Dell 16-in Large Touchscreen, Gaming on AMD Ryzen 7 250 w/ AMD Radeon 780M, 32GB RAM, 2TB SSD, High-end 38 TOPS for AI, Black",
-      "price": 1559.99,
+      "price": 1599.99,
       "priceHistory": [
         {
           "p": 1559.99,
           "t": "2026-10-29T07:26:59.347Z"
+        },
+        {
+          "p": 1599.99,
+          "t": "2026-10-29T09:56:05.301Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 2299.99,
+      "regularPrice": 2999.99,
       "saleEndDate": null,
-      "seller": "Unicore Wholesale Com",
+      "seller": "Circle Tech",
       "sku": "19964307",
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-dell-16-in-large-touchscreen-gaming-on-amd-ryzen-7-250-w-amd-radeon-780m-32gb-ram-2tb-ssd-high-end-38-tops-for-ai-black/19964307"
@@ -1792,5 +1797,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-10-29T07:26:59.347Z"
+  "updatedAt": "2026-10-29T09:56:05.301Z"
 }
