@@ -1,0 +1,68 @@
+name: Best Buy laptop monitor
+
+on:
+  schedule:
+    # GitHub's shortest interval. Runs can start a few minutes late when GitHub is busy.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Only send a test email (checks your SMTP secrets)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write # lets the job commit data/state.json (the memory of what it has already seen)
+
+concurrency:
+  group: bestbuy-monitor
+  cancel-in-progress: false # never run two polls at once
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --omit=dev --no-audit --no-fund
+
+      - name: Check Best Buy and email the report
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          HTTPS_PROXY: ${{ secrets.HTTPS_PROXY }} # optional, only if bestbuy.ca blocks GitHub's servers
+        run: |
+          if [[ -n "${HTTPS_PROXY:-}" ]]; then export NODE_USE_ENV_PROXY=1; fi
+          node src/index.js ${{ inputs.test_email && '--test-email' || '' }}
+
+      - name: Save snapshot
+        if: ${{ always() && !inputs.test_email }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$(git status --porcelain -- data/state.json)" ]]; then
+            echo "Snapshot unchanged."
+            exit 0
+          fi
+          branch="${GITHUB_REF_NAME:-main}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          git commit -m "chore: update snapshot"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin "$branch" && git push origin "HEAD:$branch"; then exit 0; fi
+            echo "push failed (attempt $attempt), retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          exit 1
