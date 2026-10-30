@@ -4,6 +4,40 @@
   "gone": {},
   "lastHeartbeatAt": "2026-10-29T07:26:59.347Z",
   "listings": {
+    "14307897": {
+      "availabilityText": "",
+      "brand": null,
+      "buyable": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-10-30T01:10:04.489Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": true,
+        "onlineOnly": true,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/143/14307/14307897.jpg",
+      "missCount": 0,
+      "model": null,
+      "name": "Refurbished (Excellent) - Alienware M15 R2 - 15\" FHD - NVIDIA RTX 2070 - i7-9750H - 16GB - 256GB SSD - WIN10 HOME - Certified Refurbished",
+      "price": 1399.99,
+      "priceHistory": [
+        {
+          "p": 1399.99,
+          "t": "2026-10-30T01:10:04.489Z"
+        }
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "regularPrice": 1999.99,
+      "saleEndDate": null,
+      "seller": "TECHSTIX",
+      "sku": "14307897",
+      "specs": {
+        "screen": "15\""
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-alienware-m15-r2-15-fhd-nvidia-rtx-2070-i7-9750h-16gb-256gb-ssd-win10-home-certified-refurbished/14307897"
+    },
     "14307903": {
       "availabilityText": "",
       "brand": null,
@@ -89,7 +123,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/171/17115/17115341.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS ROG Strix G16 16\" Gaming Laptop - Eclipse Grey (Intel Core i7-13650HX/512GB SSD/32GB RAM/GeForce RTX 4050)",
       "price": 1699.99,
@@ -517,7 +551,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/191/19179/19179833.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - HP Victus 15.6\" Gaming Laptop - Mica Silver (Intel Core i7 13620H/16GB RAM/512GB SSD/GeForce RTX 3050)",
       "price": 824.97,
@@ -590,7 +624,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/192/19271/19271355.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS V16 16\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 1TB SSD - GeForce RTX 4050 - Windows 11 Home - Matte Black",
       "price": 1349.99,
@@ -736,7 +770,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19336/19336437.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS V16 16\" Gaming Laptop - Matte Black (Intel Core i5 210H/16GB RAM/512GB SSD/GeForce RTX 3050/Win 11)",
       "price": 864.97,
@@ -812,7 +846,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19430/19430010.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" 165Hz Gaming Laptop - AMD Ryzen 5 7535HS - 8GB DDR5 - 512GB SSD - RTX 3050 - Windows 11 - Black",
       "price": 899.99,
@@ -919,7 +953,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19458/19458354.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Predator Helios Neo 16\" Gaming Laptop - Intel Core Ultra 9 275HX - 16GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 - Black",
       "price": 1759.99,
@@ -1058,7 +1092,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19482/19482244.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR4 - 512GB SSD - GeForce RTX 3050 - Windows 11 Home - Mecha Grey",
       "price": 949.99,
@@ -1166,7 +1200,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19496/19496321.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/1TB SSD/RTX 5060/Windows 11)",
       "price": 1364.99,
@@ -1204,7 +1238,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19496/19496324.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Lenovo Legion 7i 16\" Gaming Laptop - Glacier White (Intel Core Ultra 7 - 255HX/32GB RAM/1TB SSD/RTX 5060)",
       "price": 1859.95,
@@ -1242,7 +1276,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19504/19504164.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - Lenovo Legion 5i 15.1\" Gaming Laptop - Eclipse Black (Intel Core i7-14700HX/16GB RAM/1TB SSD/RTX 5060)",
       "price": 1379.95,
@@ -1315,7 +1349,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19506/19506742.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" Gaming Laptop - Mecha Grey (Intel Core 5 210H/16GB RAM/512GB SSD/GeForce RTX 3050)",
       "price": 899.95,
@@ -1438,7 +1472,7 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1699,
+      "regularPrice": 1799,
       "saleEndDate": null,
       "seller": "MSI Canada Official",
       "sku": "19513055",
@@ -1551,7 +1585,7 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1599,
+      "regularPrice": 1699,
       "saleEndDate": null,
       "seller": "MSI Canada Official",
       "sku": "19613186",
@@ -2142,6 +2176,44 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-a15-b7uc-15-6-gaming-laptop-cosmos-gray-amd-ryzen-5-7535hs-512gb-ssd-16gb-ram-rtx-3050/20200815"
     },
+    "20206831": {
+      "availabilityText": "",
+      "brand": "ASUS",
+      "buyable": null,
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-30T01:10:04.489Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": true,
+        "onlineOnly": true,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20206/20206831.jpeg",
+      "missCount": 0,
+      "model": null,
+      "name": "Open Box - ASUS TUF Gaming F16 16\" Gaming Laptop - Jaeger Grey (Intel Core i7 14650HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
+      "price": 1794.95,
+      "priceHistory": [
+        {
+          "p": 1794.95,
+          "t": "2026-10-30T01:10:04.489Z"
+        }
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "regularPrice": 2099.95,
+      "saleEndDate": null,
+      "seller": "PRO OB",
+      "sku": "20206831",
+      "specs": {
+        "cpu": "Intel Core i7 14650HX",
+        "gpu": "GeForce RTX 5060",
+        "ram": "16GB RAM",
+        "screen": "16\"",
+        "storage": "512GB SSD"
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-gaming-laptop-jaeger-grey-intel-core-i7-14650hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20206831"
+    },
     "20208440": {
       "availabilityText": "",
       "brand": "ASUS",
@@ -2301,7 +2373,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20226/20226477.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - MSI Crosshair 18 HX AI 18\" 240Hz Gaming Laptop - Intel Core Ultra7-255HX - 32GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 Home - Black",
       "price": 1854.97,
@@ -2336,7 +2408,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20226/20226482.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - MSI Cyborg 17 17.3\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Windows 11 - Translucent Black",
       "price": 1134.99,
@@ -2396,5 +2468,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-10-29T21:22:11.629Z"
+  "updatedAt": "2026-10-30T01:10:04.489Z"
 }
