@@ -26,6 +26,18 @@
       "sku": "17143897",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-rog-strix-g16-16-gaming-laptop-eclipse-grey-intel-i7-13650hx-512gb-ssd-32gb-ram-geforce-rtx-4050/17143897"
     },
+    "18970887": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-10-31T01:55:39.422Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/189/18970/18970887.jpeg",
+      "name": "Refurbished (Excellent) MSI Cyborg 15 A13V Laptop | 15.6\" 1920x1080 FHD | Core i7 - 13620H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce RTX 4050 | 10 cores @ 4.9 GHz - 6GB",
+      "price": 1299.99,
+      "regularPrice": 1549.99,
+      "sku": "18970887",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-cyborg-15-a13v-laptop-15-6-1920x1080-fhd-core-i7-13620h-512gb-ssd-hard-drive-16gb-ram-nvidia-geforce-rtx-4050-10-cores-4-9-ghz-6gb/18970887"
+    },
     "19179833": {
       "brand": "HP",
       "condition": "Open Box",
@@ -49,6 +61,18 @@
       "regularPrice": 1199.97,
       "sku": "19336437",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-v16-16-gaming-laptop-matte-black-intel-core-i5-210h-16gb-ram-512gb-ssd-geforce-rtx-3050-win-11/19336437"
+    },
+    "19361507": {
+      "brand": "HP",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-10-31T01:55:39.422Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19361/19361507.jpeg",
+      "name": "Open Box - HP Victus 15.6\" Gaming Laptop - Mica Silver (Intel Core i5-13420H/16GB RAM/512GB SSD/RTX 3050)",
+      "price": 949.97,
+      "regularPrice": 1099.97,
+      "sku": "19361507",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-gaming-laptop-mica-silver-intel-core-i5-13420h-16gb-ram-512gb-ssd-rtx-3050/19361507"
     },
     "19430010": {
       "brand": "Acer",
@@ -133,6 +157,18 @@
       "regularPrice": 1799,
       "sku": "19948428",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-amd-ryzen-5-7535hs-16gb-ddr5-1tb-ssd-rtx-4050-windows-11-home-shale-black-w-1-year-warranty/19948428"
+    },
+    "20171461": {
+      "brand": "HP",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-10-31T01:55:39.422Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20171/20171461.jpeg",
+      "name": "Open Box - HP Victus 15.6\" 144Hz Gaming Laptop PC - AMD Ryzen 5 8645HS - 8GB DDR5 RAM - 512GB SSD - GeForce RTX 2050 - Windows 11 Home - Mica Silver",
+      "price": 854.99,
+      "regularPrice": 999.99,
+      "sku": "20171461",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-144hz-gaming-laptop-pc-amd-ryzen-5-8645hs-8gb-ddr5-ram-512gb-ssd-geforce-rtx-2050-windows-11-home-mica-silver/20171461"
     },
     "20208757": {
       "brand": null,
@@ -609,40 +645,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-acer-nitro-v-15-anv15-51-laptop-2023-15-6-1920x1080-fhd-core-i5-13420h-512gb-ssd-hard-drive-16gb-ram-nvidia-geforce-rtx-4050-8-cores/18946682"
     },
-    "18970887": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/189/18970/18970887.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) MSI Cyborg 15 A13V Laptop | 15.6\" 1920x1080 FHD | Core i7 - 13620H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce RTX 4050 | 10 cores @ 4.9 GHz - 6GB",
-      "price": 1299.99,
-      "priceHistory": [
-        {
-          "p": 1299.99,
-          "t": "2026-10-29T07:26:59.347Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1549.99,
-      "saleEndDate": "2026-11-01T06:59:59.000Z",
-      "seller": "Price Slice",
-      "sku": "18970887",
-      "specs": {
-        "screen": "15.6\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-cyborg-15-a13v-laptop-15-6-1920x1080-fhd-core-i7-13620h-512gb-ssd-hard-drive-16gb-ram-nvidia-geforce-rtx-4050-10-cores-4-9-ghz-6gb/18970887"
-    },
     "19265763": {
       "availabilityText": "",
       "brand": "Acer",
@@ -824,44 +826,6 @@
         "storage": "1TB SSD"
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-v16-16-gaming-laptop-matte-black-intel-core-i7-240h-16gb-ram-1tb-ssd-geforce-rtx-4050-windows-11/19327466"
-    },
-    "19361507": {
-      "availabilityText": "",
-      "brand": "HP",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19361/19361507.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - HP Victus 15.6\" Gaming Laptop - Mica Silver (Intel Core i5-13420H/16GB RAM/512GB SSD/RTX 3050)",
-      "price": 949.97,
-      "priceHistory": [
-        {
-          "p": 949.97,
-          "t": "2026-10-29T07:26:59.347Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1099.97,
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "19361507",
-      "specs": {
-        "cpu": "Intel Core i5-13420H",
-        "gpu": "RTX 3050",
-        "ram": "16GB RAM",
-        "screen": "15.6\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-gaming-laptop-mica-silver-intel-core-i5-13420h-16gb-ram-512gb-ssd-rtx-3050/19361507"
     },
     "19431777": {
       "availabilityText": "",
@@ -1989,41 +1953,6 @@
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a18-laptop-amd-ryzen-7-260-processor-16gb-ram-1tb-ssd-18-inch-gaming-display-rgb-keyboard-windows-11-home-performance-gaming-notebook/20160968"
     },
-    "20171461": {
-      "availabilityText": "",
-      "brand": "HP",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20171/20171461.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - HP Victus 15.6\" 144Hz Gaming Laptop PC - AMD Ryzen 5 8645HS - 8GB DDR5 RAM - 512GB SSD - GeForce RTX 2050 - Windows 11 Home - Mica Silver",
-      "price": 854.99,
-      "priceHistory": [
-        {
-          "p": 854.99,
-          "t": "2026-10-29T07:26:59.347Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 999.99,
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "20171461",
-      "specs": {
-        "refresh": "144 Hz",
-        "screen": "15.6\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-144hz-gaming-laptop-pc-amd-ryzen-5-8645hs-8gb-ddr5-ram-512gb-ssd-geforce-rtx-2050-windows-11-home-mica-silver/20171461"
-    },
     "20198421": {
       "availabilityText": "",
       "brand": "Alienware",
@@ -2397,5 +2326,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-10-30T22:54:52.327Z"
+  "updatedAt": "2026-10-31T01:55:39.422Z"
 }
