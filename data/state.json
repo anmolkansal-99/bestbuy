@@ -146,6 +146,18 @@
       "sku": "19506742",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-gaming-laptop-mecha-grey-intel-core-5-210h-16gb-ram-512gb-ssd-geforce-rtx-3050/19506742"
     },
+    "19587033": {
+      "brand": "ASUS",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T16:33:03.024Z",
+      "goneAt": "2026-10-31T18:03:25.893Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19587/19587033.jpeg",
+      "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Jaeger Grey (Intel Core i7 14650HX/16GB RAM/1TB SSD/GeForce RTX 5060/Win11 Home)",
+      "price": 1699.97,
+      "regularPrice": 1999.97,
+      "sku": "19587033",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-f16-16-gaming-laptop-jaeger-grey-intel-core-i7-14650hx-16gb-ram-1tb-ssd-geforce-rtx-5060-win11-home/19587033"
+    },
     "20171461": {
       "brand": "HP",
       "condition": "Open Box",
@@ -410,9 +422,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1199.99,
+      "regularPrice": 1499.99,
       "saleEndDate": null,
-      "seller": "RBSDIST",
+      "seller": "Unlimited Gaming Technology Inc",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1353,44 +1365,6 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-15-15-6-gaming-laptop-cosmos-grey-intel-core-i7-13620h-512gb-16gb-ram-geforce-rtx-4060/19513055"
-    },
-    "19587033": {
-      "availabilityText": "",
-      "brand": "ASUS",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T16:33:03.024Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19587/19587033.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Jaeger Grey (Intel Core i7 14650HX/16GB RAM/1TB SSD/GeForce RTX 5060/Win11 Home)",
-      "price": 1699.97,
-      "priceHistory": [
-        {
-          "p": 1699.97,
-          "t": "2026-10-29T16:33:03.024Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1999.97,
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "19587033",
-      "specs": {
-        "cpu": "Intel Core i7 14650HX",
-        "gpu": "GeForce RTX 5060",
-        "ram": "16GB RAM",
-        "screen": "16\"",
-        "storage": "1TB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-f16-16-gaming-laptop-jaeger-grey-intel-core-i7-14650hx-16gb-ram-1tb-ssd-geforce-rtx-5060-win11-home/19587033"
     },
     "19613181": {
       "availabilityText": "",
@@ -2350,5 +2324,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-10-31T13:55:05.493Z"
+  "updatedAt": "2026-10-31T18:03:25.893Z"
 }
