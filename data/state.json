@@ -146,18 +146,6 @@
       "sku": "19506742",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-gaming-laptop-mecha-grey-intel-core-5-210h-16gb-ram-512gb-ssd-geforce-rtx-3050/19506742"
     },
-    "19948428": {
-      "brand": "Acer",
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "goneAt": "2026-10-30T22:54:52.327Z",
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19948/19948428.webp",
-      "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - AMD Ryzen 5 7535HS - 16GB DDR5 - 1TB SSD - RTX 4050 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
-      "price": 1499,
-      "regularPrice": 1799,
-      "sku": "19948428",
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-amd-ryzen-5-7535hs-16gb-ddr5-1tb-ssd-rtx-4050-windows-11-home-shale-black-w-1-year-warranty/19948428"
-    },
     "20171461": {
       "brand": "HP",
       "condition": "Open Box",
@@ -1379,7 +1367,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19587/19587033.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Jaeger Grey (Intel Core i7 14650HX/16GB RAM/1TB SSD/GeForce RTX 5060/Win11 Home)",
       "price": 1699.97,
@@ -1805,6 +1793,42 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-rtx-5060-windows-11-home-luna-grey/19911720"
+    },
+    "19948428": {
+      "availabilityText": "",
+      "brand": "Acer",
+      "buyable": null,
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": true,
+        "onlineOnly": true,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19948/19948428.webp",
+      "missCount": 0,
+      "model": null,
+      "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - AMD Ryzen 5 7535HS - 16GB DDR5 - 1TB SSD - RTX 4050 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
+      "price": 1499,
+      "priceHistory": [
+        {
+          "p": 1499,
+          "t": "2026-10-31T13:55:05.493Z"
+        }
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "regularPrice": 1799,
+      "relistedAt": "2026-10-31T13:55:05.493Z",
+      "saleEndDate": null,
+      "seller": "Acer Authorized Canada",
+      "sku": "19948428",
+      "specs": {
+        "refresh": "165 Hz",
+        "screen": "15.6\""
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-amd-ryzen-5-7535hs-16gb-ddr5-1tb-ssd-rtx-4050-windows-11-home-shale-black-w-1-year-warranty/19948428"
     },
     "19955449": {
       "availabilityText": "",
@@ -2326,5 +2350,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-10-31T07:48:34.235Z"
+  "updatedAt": "2026-10-31T13:55:05.493Z"
 }
