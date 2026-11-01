@@ -480,7 +480,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/182/18218/18218198.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - MSI Thin 15 15.6\" 144Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 512GB SSD - RTX 4050 - Cosmos Grey",
       "price": 1799,
@@ -2324,5 +2324,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-10-31T21:24:49.661Z"
+  "updatedAt": "2026-11-01T06:09:16.702Z"
 }
