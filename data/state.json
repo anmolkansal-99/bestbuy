@@ -480,7 +480,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/182/18218/18218198.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - MSI Thin 15 15.6\" 144Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 512GB SSD - RTX 4050 - Cosmos Grey",
       "price": 1799,
@@ -1851,11 +1851,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19964/19964307.png",
-      "lastPriceChangeAt": "2026-10-30T13:59:25.432Z",
+      "lastPriceChangeAt": "2026-11-01T13:14:28.687Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box Dell 16-in Large Touchscreen, Gaming on AMD Ryzen 7 250 w/ AMD Radeon 780M, 32GB RAM, 2TB SSD, High-end 38 TOPS for AI, Black",
-      "price": 1559.99,
+      "price": 1599.99,
       "priceHistory": [
         {
           "p": 1559.99,
@@ -1876,13 +1876,17 @@
         {
           "p": 1559.99,
           "t": "2026-10-30T13:59:25.432Z"
+        },
+        {
+          "p": 1599.99,
+          "t": "2026-11-01T13:14:28.687Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 2299.99,
+      "regularPrice": 2999.99,
       "saleEndDate": null,
-      "seller": "Unicore Wholesale Com",
+      "seller": "Circle Tech",
       "sku": "19964307",
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-dell-16-in-large-touchscreen-gaming-on-amd-ryzen-7-250-w-amd-radeon-780m-32gb-ram-2tb-ssd-high-end-38-tops-for-ai-black/19964307"
@@ -2324,5 +2328,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-01T06:09:16.702Z"
+  "updatedAt": "2026-11-01T13:14:28.687Z"
 }
