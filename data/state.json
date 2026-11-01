@@ -562,7 +562,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/186/18602/18602100.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS TUF Gaming F15 15.6\" 144Hz Gaming Laptop (Intel Core i5-12500H/16GB RAM/512GB SSD/RTX 3050)",
       "price": 979.99,
@@ -779,7 +779,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19327/19327466.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS V16 16\" Gaming Laptop - Matte Black (Intel Core i7 240H/16GB RAM/1TB SSD/GeForce RTX 4050/Windows 11)",
       "price": 1279.95,
@@ -1246,7 +1246,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19506/19506746.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - HP Victus 15.6\" Gaming Laptop - Mica Silver (AMD Ryzen AI 5 340/512GB SSD/16GB RAM/GeForce RTX 5050)",
       "price": 1239.95,
@@ -1431,7 +1431,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613187.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS V16 16\" Gaming Laptop -Matte Black (Intel Ci5 210H/16GB RAM/512GB SSD/GeForce RTX 3050)",
       "price": 919.97,
@@ -2100,7 +2100,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20206/20206831.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" Gaming Laptop - Jaeger Grey (Intel Core i7 14650HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
       "price": 1794.95,
@@ -2314,5 +2314,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-01T18:26:10.905Z"
+  "updatedAt": "2026-11-01T22:14:35.500Z"
 }
