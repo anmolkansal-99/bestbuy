@@ -622,7 +622,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/189/18946/18946682.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) Acer Nitro V 15 ANV15-51 Laptop (2023) | 15.6\" 1920x1080 FHD | Core i5 - 13420H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce RTX 4050 | 8 cores @",
       "price": 1139.99,
@@ -656,7 +656,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/192/19265/19265763.webp",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 144Hz Gaming Laptop - AMD Ryzen 7 7735HS - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
       "price": 1399,
@@ -691,7 +691,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/192/19271/19271355.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS V16 16\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 1TB SSD - GeForce RTX 4050 - Windows 11 Home - Matte Black",
       "price": 1349.99,
@@ -800,7 +800,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19431/19431777.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop (AMD Ryzen 5 7535HS/8GB RAM/512GB SSD/RTX3050/Windows 11)",
       "price": 854.95,
@@ -1015,7 +1015,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19482/19482242.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" 165Hz Gaming Laptop - AMD Ryzen 7 7735HS - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Black",
       "price": 1149.99,
@@ -1050,7 +1050,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19482/19482244.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR4 - 512GB SSD - GeForce RTX 3050 - Windows 11 Home - Mecha Grey",
       "price": 949.99,
@@ -1121,7 +1121,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19495/19495852.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS V16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR5 - 1TB SSD - GeForce RTX 5050 - Windows 11 Home - Black",
       "price": 1439.99,
@@ -1229,7 +1229,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19512/19512751.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 1TB SSD - RTX 5060 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
       "price": 1599,
@@ -1449,7 +1449,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/197/19700/19700427.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" 165Hz Gaming Laptop - Intel Core i9-13900H - 32GB DDR4 - 1TB SSD - RTX 5060 - Windows 11 - Obsidian Black",
       "price": 1599.99,
@@ -1861,7 +1861,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20198/20198421.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Alienware 15\" Gaming Laptop - Black (Intel Core 5 210H/16GB RAM/512GB SSD/NVIDIA GeForce RTX 3050/Windows 11 Home)",
       "price": 1279.99,
@@ -2007,7 +2007,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208440.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Off Black (Intel Core i7 14650HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
       "price": 1854.99,
@@ -2183,5 +2183,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-02T18:12:47.143Z"
+  "updatedAt": "2026-11-03T00:57:06.794Z"
 }
