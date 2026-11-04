@@ -992,7 +992,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19446/19446974.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Alienware 16 Aurora 16\" Gaming Laptop - Blue (Intel Core 7 240H Series 2/32GB RAM/1TB SSD/GeForce RTX 5060/Win11)",
       "price": 1459.95,
@@ -2102,7 +2102,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20113/20113113.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - MSI Cyborg 17 17.3\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Windows 11 - Translucent Black",
       "price": 1194.99,
@@ -2523,5 +2523,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-03T21:10:32.371Z"
+  "updatedAt": "2026-11-04T01:18:54.428Z"
 }
