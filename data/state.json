@@ -992,7 +992,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19446/19446974.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - Alienware 16 Aurora 16\" Gaming Laptop - Blue (Intel Core 7 240H Series 2/32GB RAM/1TB SSD/GeForce RTX 5060/Win11)",
       "price": 1459.95,
@@ -1314,7 +1314,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19506/19506742.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" Gaming Laptop - Mecha Grey (Intel Core 5 210H/16GB RAM/512GB SSD/GeForce RTX 3050)",
       "price": 899.95,
@@ -1390,7 +1390,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19513/19513072.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/1TB SSD/RTX 5060/Windows 11)",
       "price": 1299.95,
@@ -2102,7 +2102,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20113/20113113.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - MSI Cyborg 17 17.3\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Windows 11 - Translucent Black",
       "price": 1194.99,
@@ -2169,7 +2169,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20198/20198424.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming A16 16\" Gaming Laptop - Jaeger Grey (AMD Ryzen 7 260/16GB RAM/512GB SSD/GeForce RTX 5050/Windows 11)",
       "price": 1279.95,
@@ -2523,5 +2523,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-04T01:18:54.428Z"
+  "updatedAt": "2026-11-04T07:34:11.446Z"
 }
