@@ -302,6 +302,18 @@
       "sku": "19700427",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-165hz-gaming-laptop-intel-core-i9-13900h-32gb-ddr4-1tb-ssd-rtx-5060-windows-11-obsidian-black/19700427"
     },
+    "19854182": {
+      "brand": "Acer",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T21:22:11.629Z",
+      "goneAt": "2026-11-05T01:42:27.061Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/198/19854/19854182.jpeg",
+      "name": "Open Box - Acer Nitro V 16 16\" 180Hz WUXGA Gaming Laptop - Intel Core 7-240H - 16GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 - Black - w/ 1 Year Warranty",
+      "price": 1599,
+      "regularPrice": 1899,
+      "sku": "19854182",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-16-16-180hz-wuxga-gaming-laptop-intel-core-7-240h-16gb-ddr5-1tb-ssd-rtx-5060-windows-11-black-w-1-year-warranty/19854182"
+    },
     "20113113": {
       "brand": "MSI",
       "condition": "Open Box",
@@ -940,7 +952,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19361/19361507.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - HP Victus 15.6\" Gaming Laptop - Mica Silver (Intel Core i5-13420H/16GB RAM/512GB SSD/RTX 3050)",
       "price": 949.97,
@@ -1192,7 +1204,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19482/19482244.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR4 - 512GB SSD - GeForce RTX 3050 - Windows 11 Home - Mecha Grey",
       "price": 949.99,
@@ -1770,41 +1782,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-a16-16-wuxga-144hz-gaming-laptop-amd-ryzen-7-7445hs-nvidia-geforce-rtx-4050-6gb-gddr6-512gb-ssd-16gb-ddr5-backlit-wi-fi-6-win-11-gray/19825458"
     },
-    "19854182": {
-      "availabilityText": "",
-      "brand": "Acer",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T21:22:11.629Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/198/19854/19854182.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - Acer Nitro V 16 16\" 180Hz WUXGA Gaming Laptop - Intel Core 7-240H - 16GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 - Black - w/ 1 Year Warranty",
-      "price": 1599,
-      "priceHistory": [
-        {
-          "p": 1599,
-          "t": "2026-10-29T21:22:11.629Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1899,
-      "saleEndDate": null,
-      "seller": "Acer Authorized Canada",
-      "sku": "19854182",
-      "specs": {
-        "refresh": "180 Hz",
-        "screen": "16\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-16-16-180hz-wuxga-gaming-laptop-intel-core-7-240h-16gb-ddr5-1tb-ssd-rtx-5060-windows-11-black-w-1-year-warranty/19854182"
-    },
     "19911720": {
       "availabilityText": "",
       "brand": "Lenovo",
@@ -1889,7 +1866,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19955/19955449.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - MSI THIN 15.6\" Gaming Laptop - Intel Core 5-210H @4.8GHz - RTX 3050 - 1TB NVMe SSD - 32GB RAM - Win 11",
       "price": 1499.99,
@@ -2395,5 +2372,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-04T21:30:03.060Z"
+  "updatedAt": "2026-11-05T01:42:27.061Z"
 }
