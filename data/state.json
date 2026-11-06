@@ -86,18 +86,6 @@
       "sku": "19265763",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-144hz-gaming-laptop-amd-ryzen-7-7735hs-16gb-ddr5-512gb-ssd-rtx-4050-windows-11-home-shale-black-w-1-year-warranty/19265763"
     },
-    "19271355": {
-      "brand": "ASUS",
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "goneAt": "2026-11-03T07:30:25.494Z",
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/192/19271/19271355.jpg",
-      "name": "Open Box - ASUS V16 16\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 1TB SSD - GeForce RTX 4050 - Windows 11 Home - Matte Black",
-      "price": 1349.99,
-      "regularPrice": 1349.99,
-      "sku": "19271355",
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-v16-16-144hz-gaming-laptop-intel-core-7-240h-16gb-ddr5-1tb-ssd-geforce-rtx-4050-windows-11-home-matte-black/19271355"
-    },
     "19336437": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -133,6 +121,18 @@
       "regularPrice": 899.99,
       "sku": "19430010",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-165hz-gaming-laptop-amd-ryzen-5-7535hs-8gb-ddr5-512gb-ssd-rtx-3050-windows-11-black/19430010"
+    },
+    "19431777": {
+      "brand": "Acer",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-11-06T16:56:53.767Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19431/19431777.jpeg",
+      "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop (AMD Ryzen 5 7535HS/8GB RAM/512GB SSD/RTX3050/Windows 11)",
+      "price": 854.95,
+      "regularPrice": 1099.95,
+      "sku": "19431777",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-gaming-laptop-amd-ryzen-5-7535hs-8gb-ram-512gb-ssd-rtx3050-windows-11/19431777"
     },
     "19446974": {
       "brand": null,
@@ -313,6 +313,18 @@
       "regularPrice": 1599.99,
       "sku": "19700427",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-165hz-gaming-laptop-intel-core-i9-13900h-32gb-ddr4-1tb-ssd-rtx-5060-windows-11-obsidian-black/19700427"
+    },
+    "19796477": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-03T21:10:32.371Z",
+      "goneAt": "2026-11-06T16:56:53.767Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19796/19796477.jpeg",
+      "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" 240Hz HDR Gaming Laptop - Intel Core i7-14650HX - 16GB DDR5 - 1TB SSD - RTX 5050 - Win11 - Eclipse Gray",
+      "price": 1794.95,
+      "regularPrice": 2449.95,
+      "sku": "19796477",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-240hz-hdr-gaming-laptop-intel-core-i7-14650hx-16gb-ddr5-1tb-ssd-rtx-5050-win11-eclipse-gray/19796477"
     },
     "19854182": {
       "brand": "Acer",
@@ -568,7 +580,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/171/17143/17143897.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS ROG Strix G16 16\" Gaming Laptop -Eclipse Grey (Intel i7-13650HX/512GB SSD/32GB RAM/GeForce RTX 4050)",
       "price": 1234.97,
@@ -642,7 +654,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/172/17233/17233582.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" Gaming Laptop -Eclipse Grey (Intel Ci7-13650HX/512GB SSD/32GB RAM/GeForce RTX 4050)",
       "price": 1169.97,
@@ -847,6 +859,42 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-w-1-year-warranty-acer-nitro-v-15-15-6-144hz-gaming-laptop-amd-ryzen-7-7735hs-16gb-ddr5-512gb-ssd-rtx-3050-windows-11-home-shale-black/18585639"
     },
+    "19271355": {
+      "availabilityText": "",
+      "brand": "ASUS",
+      "buyable": null,
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": false,
+        "onlineOnly": false,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/192/19271/19271355.jpg",
+      "missCount": 0,
+      "model": null,
+      "name": "Open Box - ASUS V16 16\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 1TB SSD - GeForce RTX 4050 - Windows 11 Home - Matte Black",
+      "price": 1349.99,
+      "priceHistory": [
+        {
+          "p": 1349.99,
+          "t": "2026-11-06T16:56:53.767Z"
+        }
+      ],
+      "rating": 5,
+      "ratingCount": 2,
+      "regularPrice": 1349.99,
+      "relistedAt": "2026-11-06T16:56:53.767Z",
+      "saleEndDate": null,
+      "seller": null,
+      "sku": "19271355",
+      "specs": {
+        "refresh": "144 Hz",
+        "screen": "16\""
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-v16-16-144hz-gaming-laptop-intel-core-7-240h-16gb-ddr5-1tb-ssd-geforce-rtx-4050-windows-11-home-matte-black/19271355"
+    },
     "19284590": {
       "availabilityText": "",
       "brand": null,
@@ -1028,44 +1076,6 @@
         "screen": "16\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-165hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-1tb-ssd-rtx-4060-windows-11-home-eclipse-grey/19416592"
-    },
-    "19431777": {
-      "availabilityText": "",
-      "brand": "Acer",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19431/19431777.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop (AMD Ryzen 5 7535HS/8GB RAM/512GB SSD/RTX3050/Windows 11)",
-      "price": 854.95,
-      "priceHistory": [
-        {
-          "p": 854.95,
-          "t": "2026-11-05T22:17:10.002Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1099.95,
-      "relistedAt": "2026-11-05T22:17:10.002Z",
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "19431777",
-      "specs": {
-        "cpu": "AMD Ryzen 5 7535HS",
-        "ram": "8GB RAM",
-        "screen": "15.6\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-gaming-laptop-amd-ryzen-5-7535hs-8gb-ram-512gb-ssd-rtx3050-windows-11/19431777"
     },
     "19442826": {
       "availabilityText": "",
@@ -1769,41 +1779,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr4-512gb-ssd-rtx-5050-windows-11-home-shale-black-w-1-year-warranty/19776685"
     },
-    "19796477": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-03T21:10:32.371Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19796/19796477.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" 240Hz HDR Gaming Laptop - Intel Core i7-14650HX - 16GB DDR5 - 1TB SSD - RTX 5050 - Win11 - Eclipse Gray",
-      "price": 1794.95,
-      "priceHistory": [
-        {
-          "p": 1794.95,
-          "t": "2026-11-03T21:10:32.371Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 2449.95,
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "19796477",
-      "specs": {
-        "refresh": "240 Hz",
-        "screen": "16\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-240hz-hdr-gaming-laptop-intel-core-i7-14650hx-16gb-ddr5-1tb-ssd-rtx-5050-win11-eclipse-gray/19796477"
-    },
     "19825458": {
       "availabilityText": "",
       "brand": null,
@@ -2080,6 +2055,41 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-geforce-rtx-5050-luna-grey/20140331"
+    },
+    "20147408": {
+      "availabilityText": "",
+      "brand": null,
+      "buyable": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-06T16:56:53.767Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": true,
+        "onlineOnly": true,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20147/20147408.png",
+      "missCount": 0,
+      "model": null,
+      "name": "Refurbished (Excellent) ASUS TUF Gaming F16 (2025) 16\" Gaming Laptop, Intel Core 5 210H, NVIDIA RTX 4050, 144Hz Display, 16GB DDR5, 1TB SSD, Thunderbolt 4, HDMI 2.1, Mecha Grey",
+      "price": 1189.99,
+      "priceHistory": [
+        {
+          "p": 1189.99,
+          "t": "2026-11-06T16:56:53.767Z"
+        }
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "regularPrice": 2059.99,
+      "saleEndDate": "2026-11-16T06:59:59.000Z",
+      "seller": "Tech Nation Renewed",
+      "sku": "20147408",
+      "specs": {
+        "refresh": "144 Hz",
+        "screen": "16\""
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-gaming-f16-2025-16-gaming-laptop-intel-core-5-210h-nvidia-rtx-4050-144hz-display-16gb-ddr5-1tb-ssd-thunderbolt-4-hdmi-2-1-mecha-grey/20147408"
     },
     "20157166": {
       "availabilityText": "",
@@ -2676,11 +2686,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20246/20246000.jpeg",
-      "lastPriceChangeAt": "2026-11-06T09:46:52.991Z",
+      "lastPriceChangeAt": "2026-11-06T16:56:53.767Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box – MSI Thin 15 B13VE 15.6\" 144Hz Gaming Laptop – Intel Core i5-13420H, 16GB RAM, 512GB SSD, RTX 4050 – Cosmos Gray",
-      "price": 1499.99,
+      "price": 1299.99,
       "priceHistory": [
         {
           "p": 1299.99,
@@ -2689,12 +2699,16 @@
         {
           "p": 1499.99,
           "t": "2026-11-06T09:46:52.991Z"
+        },
+        {
+          "p": 1299.99,
+          "t": "2026-11-06T16:56:53.767Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
       "regularPrice": 1499.99,
-      "saleEndDate": null,
+      "saleEndDate": "2026-12-06T06:59:59.000Z",
       "seller": "Payless Electronics",
       "sku": "20246000",
       "specs": {
@@ -2884,5 +2898,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-06T09:46:52.991Z"
+  "updatedAt": "2026-11-06T16:56:53.767Z"
 }
