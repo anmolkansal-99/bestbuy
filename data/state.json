@@ -1083,19 +1083,24 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19442/19442826.webp",
+      "lastPriceChangeAt": "2026-11-07T18:51:09.589Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box - Acer Nitro V 17 AI 17.3\" 144Hz Gaming Laptop - AMD Ryzen AI 5-340 - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Black - w/ 1 Year Warranty",
-      "price": 1250,
+      "price": 1550,
       "priceHistory": [
         {
           "p": 1250,
           "t": "2026-11-05T16:41:16.227Z"
+        },
+        {
+          "p": 1550,
+          "t": "2026-11-07T18:51:09.589Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1499,
+      "regularPrice": 1699,
       "saleEndDate": null,
       "seller": "Acer Authorized Canada",
       "sku": "19442826",
@@ -1444,7 +1449,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613181.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS V16 16\" Gaming Laptop (Intel Core 5 210H/16GB RAM/1TB SSD/GeForce RTX 5050)",
       "price": 1299.95,
@@ -2614,5 +2619,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-07T14:19:21.183Z"
+  "updatedAt": "2026-11-07T18:51:09.589Z"
 }
