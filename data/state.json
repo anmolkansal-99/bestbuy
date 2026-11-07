@@ -134,6 +134,18 @@
       "sku": "19336437",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-v16-16-gaming-laptop-matte-black-intel-core-i5-210h-16gb-ram-512gb-ssd-geforce-rtx-3050-win-11/19336437"
     },
+    "19336438": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-03T21:10:32.371Z",
+      "goneAt": "2026-11-07T14:19:21.183Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19336/19336438.jpeg",
+      "name": "Refurbished (Excellent) - ASUS TUF F15 15.6\" 144Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR5 - 1TB SSD - RTX 4060 - Windows 11 Home - Mecha Grey",
+      "price": 1439.97,
+      "regularPrice": 1799.97,
+      "sku": "19336438",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-f15-15-6-144hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr5-1tb-ssd-rtx-4060-windows-11-home-mecha-grey/19336438"
+    },
     "19361507": {
       "brand": "HP",
       "condition": "Open Box",
@@ -302,6 +314,18 @@
       "sku": "19512751",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr4-1tb-ssd-rtx-5060-windows-11-home-shale-black-w-1-year-warranty/19512751"
     },
+    "19513072": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-03T21:10:32.371Z",
+      "goneAt": "2026-11-07T14:19:21.183Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19513/19513072.jpeg",
+      "name": "Refurbished (Excellent) - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/1TB SSD/RTX 5060/Windows 11)",
+      "price": 1299.95,
+      "regularPrice": 1599.95,
+      "sku": "19513072",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-acer-nitro-v-15-6-gaming-laptop-black-intel-core-i7-13620h-16gb-ram-1tb-ssd-rtx-5060-windows-11/19513072"
+    },
     "19587033": {
       "brand": "ASUS",
       "condition": "Open Box",
@@ -373,6 +397,18 @@
       "regularPrice": 2449.95,
       "sku": "19796477",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-240hz-hdr-gaming-laptop-intel-core-i7-14650hx-16gb-ddr5-1tb-ssd-rtx-5050-win11-eclipse-gray/19796477"
+    },
+    "19825458": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-03T07:30:25.494Z",
+      "goneAt": "2026-11-07T14:19:21.183Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/198/19825/19825458.jpeg",
+      "name": "Refurbished Excellent-ASUS TUF A16 16\" WUXGA 144Hz Gaming Laptop, AMD Ryzen 7 7445HS, NVIDIA GeForce RTX 4050 6GB GDDR6, 512GB SSD, 16GB DDR5, Backlit , Wi-Fi 6, Win 11, Gray",
+      "price": 1299,
+      "regularPrice": 1679,
+      "sku": "19825458",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-a16-16-wuxga-144hz-gaming-laptop-amd-ryzen-7-7445hs-nvidia-geforce-rtx-4050-6gb-gddr6-512gb-ssd-16gb-ddr5-backlit-wi-fi-6-win-11-gray/19825458"
     },
     "19854182": {
       "brand": "Acer",
@@ -999,41 +1035,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f17-17-3-144hz-gaming-laptop-intel-core-5-210h-16gb-ddr5-1tb-ssd-rtx-4050-windows-11-home-mecha-grey/19319566"
     },
-    "19336438": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-03T21:10:32.371Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19336/19336438.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - ASUS TUF F15 15.6\" 144Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR5 - 1TB SSD - RTX 4060 - Windows 11 Home - Mecha Grey",
-      "price": 1439.97,
-      "priceHistory": [
-        {
-          "p": 1439.97,
-          "t": "2026-11-03T21:10:32.371Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1799.97,
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "19336438",
-      "specs": {
-        "refresh": "144 Hz",
-        "screen": "15.6\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-f15-15-6-144hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr5-1tb-ssd-rtx-4060-windows-11-home-mecha-grey/19336438"
-    },
     "19416592": {
       "availabilityText": "",
       "brand": null,
@@ -1430,45 +1431,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-15-15-6-gaming-laptop-cosmos-grey-intel-core-i7-13620h-512gb-16gb-ram-geforce-rtx-4060/19513055"
     },
-    "19513072": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-03T21:10:32.371Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19513/19513072.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/1TB SSD/RTX 5060/Windows 11)",
-      "price": 1299.95,
-      "priceHistory": [
-        {
-          "p": 1299.95,
-          "t": "2026-11-05T22:17:10.002Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1599.95,
-      "relistedAt": "2026-11-05T22:17:10.002Z",
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "19513072",
-      "specs": {
-        "cpu": "Intel Core i7-13620H",
-        "gpu": "RTX 5060",
-        "ram": "16GB RAM",
-        "screen": "15.6\"",
-        "storage": "1TB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-acer-nitro-v-15-6-gaming-laptop-black-intel-core-i7-13620h-16gb-ram-1tb-ssd-rtx-5060-windows-11/19513072"
-    },
     "19613181": {
       "availabilityText": "",
       "brand": null,
@@ -1482,7 +1444,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613181.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS V16 16\" Gaming Laptop (Intel Core 5 210H/16GB RAM/1TB SSD/GeForce RTX 5050)",
       "price": 1299.95,
@@ -1735,41 +1697,6 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr4-512gb-ssd-rtx-5050-windows-11-home-shale-black-w-1-year-warranty/19776685"
-    },
-    "19825458": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-03T07:30:25.494Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/198/19825/19825458.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished Excellent-ASUS TUF A16 16\" WUXGA 144Hz Gaming Laptop, AMD Ryzen 7 7445HS, NVIDIA GeForce RTX 4050 6GB GDDR6, 512GB SSD, 16GB DDR5, Backlit , Wi-Fi 6, Win 11, Gray",
-      "price": 1299,
-      "priceHistory": [
-        {
-          "p": 1299,
-          "t": "2026-11-03T07:30:25.494Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1679,
-      "saleEndDate": null,
-      "seller": "PC Heaven Refurb",
-      "sku": "19825458",
-      "specs": {
-        "refresh": "144 Hz",
-        "screen": "16\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-a16-16-wuxga-144hz-gaming-laptop-amd-ryzen-7-7445hs-nvidia-geforce-rtx-4050-6gb-gddr6-512gb-ssd-16gb-ddr5-backlit-wi-fi-6-win-11-gray/19825458"
     },
     "19911720": {
       "availabilityText": "",
@@ -2687,5 +2614,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-07T07:35:49.067Z"
+  "updatedAt": "2026-11-07T14:19:21.183Z"
 }
