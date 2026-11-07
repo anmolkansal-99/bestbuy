@@ -26,6 +26,18 @@
       "sku": "17143897",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-rog-strix-g16-16-gaming-laptop-eclipse-grey-intel-i7-13650hx-512gb-ssd-32gb-ram-geforce-rtx-4050/17143897"
     },
+    "17233582": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-05T22:17:10.002Z",
+      "goneAt": "2026-11-07T01:28:41.860Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/172/17233/17233582.jpeg",
+      "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" Gaming Laptop -Eclipse Grey (Intel Ci7-13650HX/512GB SSD/32GB RAM/GeForce RTX 4050)",
+      "price": 1169.97,
+      "regularPrice": 1299.97,
+      "sku": "17233582",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-gaming-laptop-eclipse-grey-intel-ci7-13650hx-512gb-ssd-32gb-ram-geforce-rtx-4050/17233582"
+    },
     "18218198": {
       "brand": "MSI",
       "condition": "Open Box",
@@ -614,44 +626,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-slim-5i-16-240hz-gaming-laptop-intel-core-i7-13700h-16gb-ddr5-512gb-ssd-rtx-4060-windows-11-home-storm-grey/17187382"
     },
-    "17233582": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-05T22:17:10.002Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/172/17233/17233582.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" Gaming Laptop -Eclipse Grey (Intel Ci7-13650HX/512GB SSD/32GB RAM/GeForce RTX 4050)",
-      "price": 1169.97,
-      "priceHistory": [
-        {
-          "p": 1169.97,
-          "t": "2026-11-05T22:17:10.002Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1299.97,
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "17233582",
-      "specs": {
-        "cpu": "Intel Ci7-13650HX",
-        "gpu": "GeForce RTX 4050",
-        "ram": "32GB RAM",
-        "screen": "16\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-gaming-laptop-eclipse-grey-intel-ci7-13650hx-512gb-ssd-32gb-ram-geforce-rtx-4050/17233582"
-    },
     "17686633": {
       "availabilityText": "",
       "brand": "Dell",
@@ -954,7 +928,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19327/19327466.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS V16 16\" Gaming Laptop - Matte Black (Intel Core i7 240H/16GB RAM/1TB SSD/GeForce RTX 4050/Windows 11)",
       "price": 1279.95,
@@ -993,7 +967,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19336/19336438.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS TUF F15 15.6\" 144Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR5 - 1TB SSD - RTX 4060 - Windows 11 Home - Mecha Grey",
       "price": 1439.97,
@@ -1424,7 +1398,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19513/19513072.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/1TB SSD/RTX 5060/Windows 11)",
       "price": 1299.95,
@@ -1614,7 +1588,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19647/19647580.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS ROG Strix G16 16\" 240Hz HDR Gaming Laptop - Intel Core i7-14650HX - 16GB DDR5 - 1TB SSD - RTX 5050 - Windows 11 Home - Eclipse Grey",
       "price": 1889.95,
@@ -1765,7 +1739,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/198/19825/19825458.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished Excellent-ASUS TUF A16 16\" WUXGA 144Hz Gaming Laptop, AMD Ryzen 7 7445HS, NVIDIA GeForce RTX 4050 6GB GDDR6, 512GB SSD, 16GB DDR5, Backlit , Wi-Fi 6, Win 11, Gray",
       "price": 1299,
@@ -2042,7 +2016,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20147/20147408.png",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) ASUS TUF Gaming F16 (2025) 16\" Gaming Laptop, Intel Core 5 210H, NVIDIA RTX 4050, 144Hz Display, 16GB DDR5, 1TB SSD, Thunderbolt 4, HDMI 2.1, Mecha Grey",
       "price": 1189.99,
@@ -2153,7 +2127,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/201/20157/20157175.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - MSI Stealth A16 AI+ 16\" 240Hz Gaming Laptop - AMD Ryzen AI 9 365 - 32GB LPDDR5x - 1TB SSD - RTX 4070 - Windows 11 Home - Core Black",
       "price": 1619.99,
@@ -2291,7 +2265,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/201/20171/20171631.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - MSI Thin 15 15.6\" 144Hz Gaming Laptop - Intel Core i5-13420H - 16GB DDR4 - 512GB SSD - RTX 3050 - Windows 11 Home - Black",
       "price": 1099.99,
@@ -2591,7 +2565,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20209/20209700.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" 165Hz Gaming Laptop - Intel Core Ultra 7 255HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 - Eclipse Grey",
       "price": 1864.99,
@@ -2627,7 +2601,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20209/20209706.jpeg",
       "lastPriceChangeAt": "2026-10-30T22:54:52.327Z",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - Alienware 15.3\" Gaming Laptop - Black (AMD Ryzen 7 260/16GB RAM/1TB SSD/GeForce RTX 5050/Windows 11 Home)",
       "price": 1804.99,
@@ -2881,5 +2855,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-06T21:55:45.092Z"
+  "updatedAt": "2026-11-07T01:28:41.860Z"
 }
