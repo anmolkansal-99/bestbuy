@@ -338,6 +338,18 @@
       "sku": "19587033",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-f16-16-gaming-laptop-jaeger-grey-intel-core-i7-14650hx-16gb-ram-1tb-ssd-geforce-rtx-5060-win11-home/19587033"
     },
+    "19613181": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-10-29T16:33:03.024Z",
+      "goneAt": "2026-11-07T22:21:53.555Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613181.jpeg",
+      "name": "Refurbished (Excellent) - ASUS V16 16\" Gaming Laptop (Intel Core 5 210H/16GB RAM/1TB SSD/GeForce RTX 5050)",
+      "price": 1299.95,
+      "regularPrice": 1599.95,
+      "sku": "19613181",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-v16-16-gaming-laptop-intel-core-5-210h-16gb-ram-1tb-ssd-geforce-rtx-5050/19613181"
+    },
     "19613187": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -1435,44 +1447,6 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-15-15-6-gaming-laptop-cosmos-grey-intel-core-i7-13620h-512gb-16gb-ram-geforce-rtx-4060/19513055"
-    },
-    "19613181": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-10-29T16:33:03.024Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613181.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - ASUS V16 16\" Gaming Laptop (Intel Core 5 210H/16GB RAM/1TB SSD/GeForce RTX 5050)",
-      "price": 1299.95,
-      "priceHistory": [
-        {
-          "p": 1299.95,
-          "t": "2026-10-29T16:33:03.024Z"
-        }
-      ],
-      "rating": 5,
-      "ratingCount": 1,
-      "regularPrice": 1599.95,
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "19613181",
-      "specs": {
-        "cpu": "Intel Core 5 210H",
-        "gpu": "GeForce RTX 5050",
-        "ram": "16GB RAM",
-        "screen": "16\"",
-        "storage": "1TB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-v16-16-gaming-laptop-intel-core-5-210h-16gb-ram-1tb-ssd-geforce-rtx-5050/19613181"
     },
     "19613186": {
       "availabilityText": "",
@@ -2619,5 +2593,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-07T18:51:09.589Z"
+  "updatedAt": "2026-11-07T22:21:53.555Z"
 }
