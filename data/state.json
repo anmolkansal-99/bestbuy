@@ -818,9 +818,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1199.99,
+      "regularPrice": 1499.99,
       "saleEndDate": null,
-      "seller": "RBSDIST",
+      "seller": "Unlimited Gaming Technology Inc",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1724,7 +1724,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19911/19911720.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 Home - Luna Grey",
       "price": 1624.99,
@@ -2631,5 +2631,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-08T01:32:15.065Z"
+  "updatedAt": "2026-11-08T07:53:21.813Z"
 }
