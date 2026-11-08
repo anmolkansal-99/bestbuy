@@ -434,6 +434,18 @@
       "sku": "19854182",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-16-16-180hz-wuxga-gaming-laptop-intel-core-7-240h-16gb-ddr5-1tb-ssd-rtx-5060-windows-11-black-w-1-year-warranty/19854182"
     },
+    "19911720": {
+      "brand": "Lenovo",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-30T22:54:52.327Z",
+      "goneAt": "2026-11-08T14:35:26.668Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19911/19911720.jpeg",
+      "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 Home - Luna Grey",
+      "price": 1624.99,
+      "regularPrice": 1899.99,
+      "sku": "19911720",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-rtx-5060-windows-11-home-luna-grey/19911720"
+    },
     "19955449": {
       "brand": "MSI",
       "condition": "Open Box",
@@ -818,9 +830,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1499.99,
+      "regularPrice": 1199.99,
       "saleEndDate": null,
-      "seller": "Unlimited Gaming Technology Inc",
+      "seller": "RBSDIST",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1711,41 +1723,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr4-512gb-ssd-rtx-5050-windows-11-home-shale-black-w-1-year-warranty/19776685"
     },
-    "19911720": {
-      "availabilityText": "",
-      "brand": "Lenovo",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-30T22:54:52.327Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19911/19911720.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 Home - Luna Grey",
-      "price": 1624.99,
-      "priceHistory": [
-        {
-          "p": 1624.99,
-          "t": "2026-10-30T22:54:52.327Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1899.99,
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "19911720",
-      "specs": {
-        "refresh": "144 Hz",
-        "screen": "15.6\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-rtx-5060-windows-11-home-luna-grey/19911720"
-    },
     "19948428": {
       "availabilityText": "",
       "brand": "Acer",
@@ -2631,5 +2608,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-08T07:53:21.813Z"
+  "updatedAt": "2026-11-08T14:35:26.668Z"
 }
