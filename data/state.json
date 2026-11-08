@@ -863,6 +863,40 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-rog-strix-g18-18-240hz-gaming-laptop-intel-core-i9-14900hx-32gb-ddr5-1tb-ssd-geforce-rtx-4060-windows-11-home-eclipse-grey/17920158"
     },
+    "18268238": {
+      "availabilityText": "",
+      "brand": null,
+      "buyable": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-08T01:32:15.065Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": true,
+        "onlineOnly": true,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/182/18268/18268238.jpeg",
+      "missCount": 0,
+      "model": null,
+      "name": "Refurbished (Excellent) Lenovo Legion 5 17ACH6H Laptop | 17.3\" 1920x1080 FHD | Ryzen 5 - 5600H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce GTX 1650 | 6 cores @ 4.2 GHz -",
+      "price": 899.99,
+      "priceHistory": [
+        {
+          "p": 899.99,
+          "t": "2026-11-08T01:32:15.065Z"
+        }
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "regularPrice": 1299.99,
+      "saleEndDate": "2026-11-16T06:59:59.000Z",
+      "seller": "Electro Emporium",
+      "sku": "18268238",
+      "specs": {
+        "screen": "17.3\""
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-legion-5-17ach6h-laptop-17-3-1920x1080-fhd-ryzen-5-5600h-512gb-ssd-hard-drive-16gb-ram-nvidia-geforce-gtx-1650-6-cores-4-2-ghz/18268238"
+    },
     "18388179": {
       "availabilityText": "",
       "brand": "Acer",
@@ -1690,7 +1724,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19911/19911720.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 Home - Luna Grey",
       "price": 1624.99,
@@ -2254,11 +2288,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20200/20200815.jpeg",
-      "lastPriceChangeAt": "2026-11-07T07:35:49.067Z",
+      "lastPriceChangeAt": "2026-11-08T01:32:15.065Z",
       "missCount": 0,
       "model": null,
       "name": "Refurbished (Excellent) - MSI Thin A15 B7UC 15.6\" Gaming Laptop - Cosmos Gray (AMD Ryzen 5 7535HS/512GB SSD/16GB RAM/RTX 3050)",
-      "price": 899.99,
+      "price": 1399.98,
       "priceHistory": [
         {
           "p": 1399.98,
@@ -2267,13 +2301,17 @@
         {
           "p": 899.99,
           "t": "2026-11-07T07:35:49.067Z"
+        },
+        {
+          "p": 1399.98,
+          "t": "2026-11-08T01:32:15.065Z"
         }
       ],
       "rating": 4,
       "ratingCount": 1,
-      "regularPrice": 1199.99,
-      "saleEndDate": "2026-12-01T06:59:59.000Z",
-      "seller": "UrbanOne",
+      "regularPrice": 1999.99,
+      "saleEndDate": "2027-02-01T06:59:59.000Z",
+      "seller": "MS TECH SYSTEMS INC.",
       "sku": "20200815",
       "specs": {
         "cpu": "AMD Ryzen 5 7535HS",
@@ -2593,5 +2631,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-07T22:21:53.555Z"
+  "updatedAt": "2026-11-08T01:32:15.065Z"
 }
