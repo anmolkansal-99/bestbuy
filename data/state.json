@@ -888,7 +888,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/182/18268/18268238.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) Lenovo Legion 5 17ACH6H Laptop | 17.3\" 1920x1080 FHD | Ryzen 5 - 5600H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce GTX 1650 | 6 cores @ 4.2 GHz -",
       "price": 899.99,
@@ -1220,7 +1220,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19449/19449876.jpeg",
       "lastPriceChangeAt": "2026-11-05T08:30:25.029Z",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 180Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 1TB SSD - RTX 5060 - Windows 11 - Shale Black - 1 Year Warranty",
       "price": 1599,
@@ -1696,11 +1696,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19776/19776685.jpeg",
-      "lastPriceChangeAt": "2026-11-01T18:26:10.905Z",
+      "lastPriceChangeAt": "2026-11-08T19:03:55.713Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 512GB SSD - RTX 5050 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
-      "price": 1475,
+      "price": 1499,
       "priceHistory": [
         {
           "p": 1450,
@@ -1709,6 +1709,10 @@
         {
           "p": 1475,
           "t": "2026-11-01T18:26:10.905Z"
+        },
+        {
+          "p": 1499,
+          "t": "2026-11-08T19:03:55.713Z"
         }
       ],
       "rating": null,
@@ -2313,7 +2317,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20206/20206826.jpeg",
       "lastPriceChangeAt": "2026-11-06T21:55:45.092Z",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Windows 11 Home - Luna Grey",
       "price": 1364.99,
@@ -2608,5 +2612,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-08T14:35:26.668Z"
+  "updatedAt": "2026-11-08T19:03:55.713Z"
 }
