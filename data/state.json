@@ -50,6 +50,18 @@
       "sku": "18218198",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-msi-thin-15-15-6-144hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr4-512gb-ssd-rtx-4050-cosmos-grey/18218198"
     },
+    "18268238": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-08T01:32:15.065Z",
+      "goneAt": "2026-11-09T02:02:24.997Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/182/18268/18268238.jpeg",
+      "name": "Refurbished (Excellent) Lenovo Legion 5 17ACH6H Laptop | 17.3\" 1920x1080 FHD | Ryzen 5 - 5600H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce GTX 1650 | 6 cores @ 4.2 GHz -",
+      "price": 899.99,
+      "regularPrice": 1299.99,
+      "sku": "18268238",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-legion-5-17ach6h-laptop-17-3-1920x1080-fhd-ryzen-5-5600h-512gb-ssd-hard-drive-16gb-ram-nvidia-geforce-gtx-1650-6-cores-4-2-ghz/18268238"
+    },
     "18602100": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -542,6 +554,18 @@
       "sku": "20198424",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-gaming-laptop-jaeger-grey-amd-ryzen-7-260-16gb-ram-512gb-ssd-geforce-rtx-5050-windows-11/20198424"
     },
+    "20206826": {
+      "brand": "Lenovo",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-03T21:10:32.371Z",
+      "goneAt": "2026-11-09T02:02:24.997Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20206/20206826.jpeg",
+      "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Windows 11 Home - Luna Grey",
+      "price": 1364.99,
+      "regularPrice": 1599.99,
+      "sku": "20206826",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-geforce-rtx-5050-windows-11-home-luna-grey/20206826"
+    },
     "20206831": {
       "brand": "ASUS",
       "condition": "Open Box",
@@ -830,9 +854,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1199.99,
+      "regularPrice": 1499.99,
       "saleEndDate": null,
-      "seller": "RBSDIST",
+      "seller": "Unlimited Gaming Technology Inc",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -874,40 +898,6 @@
         "screen": "18\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-rog-strix-g18-18-240hz-gaming-laptop-intel-core-i9-14900hx-32gb-ddr5-1tb-ssd-geforce-rtx-4060-windows-11-home-eclipse-grey/17920158"
-    },
-    "18268238": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-08T01:32:15.065Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/182/18268/18268238.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) Lenovo Legion 5 17ACH6H Laptop | 17.3\" 1920x1080 FHD | Ryzen 5 - 5600H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce GTX 1650 | 6 cores @ 4.2 GHz -",
-      "price": 899.99,
-      "priceHistory": [
-        {
-          "p": 899.99,
-          "t": "2026-11-08T01:32:15.065Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1299.99,
-      "saleEndDate": "2026-11-16T06:59:59.000Z",
-      "seller": "Electro Emporium",
-      "sku": "18268238",
-      "specs": {
-        "screen": "17.3\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-legion-5-17ach6h-laptop-17-3-1920x1080-fhd-ryzen-5-5600h-512gb-ssd-hard-drive-16gb-ram-nvidia-geforce-gtx-1650-6-cores-4-2-ghz/18268238"
     },
     "18388179": {
       "availabilityText": "",
@@ -1219,11 +1209,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19449/19449876.jpeg",
-      "lastPriceChangeAt": "2026-11-05T08:30:25.029Z",
-      "missCount": 2,
+      "lastPriceChangeAt": "2026-11-09T02:02:24.997Z",
+      "missCount": 0,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 180Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 1TB SSD - RTX 5060 - Windows 11 - Shale Black - 1 Year Warranty",
-      "price": 1599,
+      "price": 1650,
       "priceHistory": [
         {
           "p": 1650,
@@ -1232,6 +1222,10 @@
         {
           "p": 1599,
           "t": "2026-11-05T08:30:25.029Z"
+        },
+        {
+          "p": 1650,
+          "t": "2026-11-09T02:02:24.997Z"
         }
       ],
       "rating": 4.67,
@@ -1544,7 +1538,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613661.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming A16 16\" Gaming Laptop - Mecha Grey (AMD Ryzen 7 7445HS/16GB RAM/512GB SSD/RTX 4050)",
       "price": 1329.95,
@@ -1744,7 +1738,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19948/19948428.webp",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - AMD Ryzen 5 7535HS - 16GB DDR5 - 1TB SSD - RTX 4050 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
       "price": 1499,
@@ -2307,46 +2301,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-a15-b7uc-15-6-gaming-laptop-cosmos-gray-amd-ryzen-5-7535hs-512gb-ssd-16gb-ram-rtx-3050/20200815"
     },
-    "20206826": {
-      "availabilityText": "",
-      "brand": "Lenovo",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-11-03T21:10:32.371Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20206/20206826.jpeg",
-      "lastPriceChangeAt": "2026-11-06T21:55:45.092Z",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Windows 11 Home - Luna Grey",
-      "price": 1364.99,
-      "priceHistory": [
-        {
-          "p": 1424.99,
-          "t": "2026-11-03T21:10:32.371Z"
-        },
-        {
-          "p": 1364.99,
-          "t": "2026-11-06T21:55:45.092Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1599.99,
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "20206826",
-      "specs": {
-        "refresh": "144 Hz",
-        "screen": "15.6\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-geforce-rtx-5050-windows-11-home-luna-grey/20206826"
-    },
     "20208440": {
       "availabilityText": "",
       "brand": "ASUS",
@@ -2616,5 +2570,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-08T22:47:33.089Z"
+  "updatedAt": "2026-11-09T02:02:24.997Z"
 }
