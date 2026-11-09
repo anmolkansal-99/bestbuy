@@ -2568,7 +2568,11 @@
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-loq-15-6-fhd-144hz-gaming-laptop-intel-core-i7-13650hx-geforce-rtx-5060-8gb-gddr7-512gb-ssd-16gb-ddr5-backlit-keyboard-win-11-eclipse-black/20288679"
     }
   },
-  "outage": null,
+  "outage": {
+    "alertedAt": null,
+    "error": "incomplete",
+    "since": "2026-11-09T09:37:05.573Z"
+  },
   "version": 1,
-  "updatedAt": "2026-11-09T02:02:24.997Z"
+  "updatedAt": "2026-11-09T09:37:05.573Z"
 }
