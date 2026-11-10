@@ -230,18 +230,6 @@
       "sku": "19482242",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-165hz-gaming-laptop-amd-ryzen-7-7735hs-16gb-ddr5-512gb-ssd-rtx-4050-windows-11-black/19482242"
     },
-    "19482244": {
-      "brand": "ASUS",
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "goneAt": "2026-11-10T10:21:44.107Z",
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19482/19482244.jpg",
-      "name": "Open Box - ASUS TUF Gaming F16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR4 - 512GB SSD - GeForce RTX 3050 - Windows 11 Home - Mecha Grey",
-      "price": 949.99,
-      "regularPrice": 949.99,
-      "sku": "19482244",
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-144hz-gaming-laptop-intel-core-5-210h-16gb-ddr4-512gb-ssd-geforce-rtx-3050-windows-11-home-mecha-grey/19482244"
-    },
     "19495852": {
       "brand": "ASUS",
       "condition": "Open Box",
@@ -530,6 +518,18 @@
       "sku": "20198424",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-gaming-laptop-jaeger-grey-amd-ryzen-7-260-16gb-ram-512gb-ssd-geforce-rtx-5050-windows-11/20198424"
     },
+    "20200815": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-11-10T22:53:02.957Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20200/20200815.jpeg",
+      "name": "Refurbished (Excellent) - MSI Thin A15 B7UC 15.6\" Gaming Laptop - Cosmos Gray (AMD Ryzen 5 7535HS/512GB SSD/16GB RAM/RTX 3050)",
+      "price": 1399.98,
+      "regularPrice": 1999.99,
+      "sku": "20200815",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-a15-b7uc-15-6-gaming-laptop-cosmos-gray-amd-ryzen-5-7535hs-512gb-ssd-16gb-ram-rtx-3050/20200815"
+    },
     "20206831": {
       "brand": "ASUS",
       "condition": "Open Box",
@@ -792,9 +792,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1499.99,
+      "regularPrice": 1199.99,
       "saleEndDate": null,
-      "seller": "Unlimited Gaming Technology Inc",
+      "seller": "RBSDIST",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -888,7 +888,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/179/17937/17937362.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F15 15.6\" Gaming Laptop - (Intel Core i5-12500H/512GB SSD/16GB RAM/GeForce RTX 3050)",
       "price": 509.99,
@@ -1178,19 +1178,24 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19428/19428140.jpeg",
+      "lastPriceChangeAt": "2026-11-10T22:53:02.957Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box - HP OMEN 16\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 1TB SSD - GeForce RTX 5060 - Windows 11 Home - Shadow Black",
-      "price": 1519.97,
+      "price": 1518.97,
       "priceHistory": [
         {
           "p": 1519.97,
           "t": "2026-11-10T17:58:31.682Z"
+        },
+        {
+          "p": 1518.97,
+          "t": "2026-11-10T22:53:02.957Z"
         }
       ],
       "rating": 5,
       "ratingCount": 2,
-      "regularPrice": 1989.97,
+      "regularPrice": 1988.97,
       "saleEndDate": null,
       "seller": "PRO OB",
       "sku": "19428140",
@@ -1213,7 +1218,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19430/19430010.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" 165Hz Gaming Laptop - AMD Ryzen 5 7535HS - 8GB DDR5 - 512GB SSD - RTX 3050 - Windows 11 - Black",
       "price": 899.99,
@@ -1538,6 +1543,42 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-amd-ryzen-7-7735hs-16gb-ddr5-512gb-ssd-rtx-4050-windows-11-shale-black-w-1-year-warranty/19471558"
     },
+    "19482244": {
+      "availabilityText": "",
+      "brand": "ASUS",
+      "buyable": null,
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": false,
+        "onlineOnly": false,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19482/19482244.jpg",
+      "missCount": 0,
+      "model": null,
+      "name": "Open Box - ASUS TUF Gaming F16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR4 - 512GB SSD - GeForce RTX 3050 - Windows 11 Home - Mecha Grey",
+      "price": 949.99,
+      "priceHistory": [
+        {
+          "p": 949.99,
+          "t": "2026-11-10T22:53:02.957Z"
+        }
+      ],
+      "rating": 4.5,
+      "ratingCount": 2,
+      "regularPrice": 949.99,
+      "relistedAt": "2026-11-10T22:53:02.957Z",
+      "saleEndDate": null,
+      "seller": null,
+      "sku": "19482244",
+      "specs": {
+        "refresh": "144 Hz",
+        "screen": "16\""
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-144hz-gaming-laptop-intel-core-5-210h-16gb-ddr4-512gb-ssd-geforce-rtx-3050-windows-11-home-mecha-grey/19482244"
+    },
     "19495851": {
       "availabilityText": "",
       "brand": "ASUS",
@@ -1849,7 +1890,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19677/19677264.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/512GB SSD/RTX 5050/Windows 11)",
       "price": 989.99,
@@ -1887,7 +1928,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19679/19679740.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Lenovo Legion 5i 15.1\" Gaming Laptop - Eclipse Black (Intel Core Ultra 7 - 255HX/16GB RAM/1TB SSD/RTX 5050)",
       "price": 1214.95,
@@ -1963,19 +2004,24 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19757/19757869.jpeg",
+      "lastPriceChangeAt": "2026-11-10T22:53:02.957Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box - Alienware Aurora 16\" Gaming Laptop - Blue (Intel Core 7 240H/16GB RAM/1TB SSD/GeForce RTX 5050/Windows 11 Home)",
-      "price": 1519.97,
+      "price": 1518.97,
       "priceHistory": [
         {
           "p": 1519.97,
           "t": "2026-10-29T16:33:03.024Z"
+        },
+        {
+          "p": 1518.97,
+          "t": "2026-11-10T22:53:02.957Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1799.97,
+      "regularPrice": 1798.97,
       "saleEndDate": null,
       "seller": "PRO OB",
       "sku": "19757869",
@@ -2368,7 +2414,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/201/20157/20157166.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming A16 16\" Gaming Laptop - Jaeger Grey (AMD Ryzen 7 260/16GB RAM/512GB SSD/GeForce RTX 5050/Windows 11)",
       "price": 1349.95,
@@ -2641,53 +2687,6 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-15-6-fhd-144hz-gaming-laptop-intel-core-i7-13620h-nvidia-geforce-rtx-4050-1tb-ssd-16gb-ddr4-backlit-keyboard-hd-camera-win-11-pro-gray/20199724"
-    },
-    "20200815": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20200/20200815.jpeg",
-      "lastPriceChangeAt": "2026-11-08T01:32:15.065Z",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - MSI Thin A15 B7UC 15.6\" Gaming Laptop - Cosmos Gray (AMD Ryzen 5 7535HS/512GB SSD/16GB RAM/RTX 3050)",
-      "price": 1399.98,
-      "priceHistory": [
-        {
-          "p": 1399.98,
-          "t": "2026-10-29T07:26:59.347Z"
-        },
-        {
-          "p": 899.99,
-          "t": "2026-11-07T07:35:49.067Z"
-        },
-        {
-          "p": 1399.98,
-          "t": "2026-11-08T01:32:15.065Z"
-        }
-      ],
-      "rating": 4,
-      "ratingCount": 1,
-      "regularPrice": 1999.99,
-      "saleEndDate": "2027-02-01T06:59:59.000Z",
-      "seller": "MS TECH SYSTEMS INC.",
-      "sku": "20200815",
-      "specs": {
-        "cpu": "AMD Ryzen 5 7535HS",
-        "gpu": "RTX 3050",
-        "ram": "16GB RAM",
-        "screen": "15.6\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-a15-b7uc-15-6-gaming-laptop-cosmos-gray-amd-ryzen-5-7535hs-512gb-ssd-16gb-ram-rtx-3050/20200815"
     },
     "20200951": {
       "availabilityText": "",
@@ -3002,7 +3001,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20266/20266068.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Win11 Home - Luna Grey",
       "price": 1539.99,
@@ -3096,5 +3095,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-10T17:58:31.682Z"
+  "updatedAt": "2026-11-10T22:53:02.957Z"
 }
