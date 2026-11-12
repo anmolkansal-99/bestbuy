@@ -1130,7 +1130,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/182/18268/18268238.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) Lenovo Legion 5 17ACH6H Laptop | 17.3\" 1920x1080 FHD | Ryzen 5 - 5600H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce GTX 1650 | 6 cores @ 4.2 GHz -",
       "price": 899.99,
@@ -1464,7 +1464,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19451/19451561.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - Acer Nitro V 15.6\" Gaming Laptop (AMD Ryzen 5 7535HS/8GB RAM/512GB SSD/RTX3050/Windows 11)",
       "price": 809.95,
@@ -1950,7 +1950,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19911/19911720.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 Home - Luna Grey",
       "price": 1624.99,
@@ -2549,7 +2549,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208440.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Off Black (Intel Core i7 14650HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
       "price": 1624.99,
@@ -2740,7 +2740,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20296/20296303.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "MSI Thin 15 15.6\" FHD Gaming Laptop Intel i5-12450H Nvidia GeForce RTX 2050 8GB 512GB SSD Windows 11 Home Open Box",
       "price": 898,
@@ -2764,5 +2764,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-12T12:34:19.874Z"
+  "updatedAt": "2026-11-12T20:22:35.605Z"
 }
