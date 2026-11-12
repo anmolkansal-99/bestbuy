@@ -350,6 +350,18 @@
       "sku": "19506742",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-gaming-laptop-mecha-grey-intel-core-5-210h-16gb-ram-512gb-ssd-geforce-rtx-3050/19506742"
     },
+    "19506746": {
+      "brand": "HP",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-11-12T04:06:02.783Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19506/19506746.jpeg",
+      "name": "Open Box - HP Victus 15.6\" Gaming Laptop - Mica Silver (AMD Ryzen AI 5 340/512GB SSD/16GB RAM/GeForce RTX 5050)",
+      "price": 1249.99,
+      "regularPrice": 1429.99,
+      "sku": "19506746",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-gaming-laptop-mica-silver-amd-ryzen-ai-5-340-512gb-ssd-16gb-ram-geforce-rtx-5050/19506746"
+    },
     "19512751": {
       "brand": "Acer",
       "condition": "Open Box",
@@ -433,6 +445,18 @@
       "regularPrice": 1099.95,
       "sku": "19613189",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-gaming-f16-16-gaming-laptop-intel-core-5-210h-16gb-ram-512gb-ssd-geforce-rtx-3050/19613189"
+    },
+    "19613661": {
+      "brand": "ASUS",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-03T21:10:32.371Z",
+      "goneAt": "2026-11-12T04:06:02.783Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613661.jpeg",
+      "name": "Open Box - ASUS TUF Gaming A16 16\" Gaming Laptop - Mecha Grey (AMD Ryzen 7 7445HS/16GB RAM/512GB SSD/RTX 4050)",
+      "price": 1329.95,
+      "regularPrice": 1699.95,
+      "sku": "19613661",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-gaming-laptop-mecha-grey-amd-ryzen-7-7445hs-16gb-ram-512gb-ssd-rtx-4050/19613661"
     },
     "19647580": {
       "brand": "ASUS",
@@ -577,6 +601,18 @@
       "regularPrice": 1619.99,
       "sku": "20157175",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-msi-stealth-a16-ai-16-240hz-gaming-laptop-amd-ryzen-ai-9-365-32gb-lpddr5x-1tb-ssd-rtx-4070-windows-11-home-core-black/20157175"
+    },
+    "20171461": {
+      "brand": "HP",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-11-12T04:06:02.783Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20171/20171461.jpeg",
+      "name": "Open Box - HP Victus 15.6\" 144Hz Gaming Laptop PC - AMD Ryzen 5 8645HS - 8GB DDR5 RAM - 512GB SSD - GeForce RTX 2050 - Windows 11 Home - Mica Silver",
+      "price": 854.99,
+      "regularPrice": 999.99,
+      "sku": "20171461",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-144hz-gaming-laptop-pc-amd-ryzen-5-8645hs-8gb-ddr5-ram-512gb-ssd-geforce-rtx-2050-windows-11-home-mica-silver/20171461"
     },
     "20171624": {
       "brand": "ASUS",
@@ -1223,7 +1259,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19304/19304230.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F17 17.3\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR5 - 1TB SSD - RTX 4050 - Windows 11 Home - Mecha Grey",
       "price": 1479.95,
@@ -1293,7 +1329,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19387/19387501.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS V16 16\" 144Hz Gaming Laptop - Intel Core i7-240H - 16GB DDR5 - 1TB SSD - RTX 4050 - Windows 11 - Matte Black",
       "price": 1214.95,
@@ -1328,7 +1364,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19431/19431777.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop (AMD Ryzen 5 7535HS/8GB RAM/512GB SSD/RTX3050/Windows 11)",
       "price": 854.95,
@@ -1723,45 +1759,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-144hz-gaming-laptop-amd-ryzen-7-7445hs-16gb-ddr5-512gb-ssd-rtx-4050-windows-11-home-mecha-grey/19505976"
     },
-    "19506746": {
-      "availabilityText": "",
-      "brand": "HP",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19506/19506746.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - HP Victus 15.6\" Gaming Laptop - Mica Silver (AMD Ryzen AI 5 340/512GB SSD/16GB RAM/GeForce RTX 5050)",
-      "price": 1249.99,
-      "priceHistory": [
-        {
-          "p": 1249.99,
-          "t": "2026-11-10T10:21:44.107Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1429.99,
-      "relistedAt": "2026-11-10T10:21:44.107Z",
-      "saleEndDate": "2027-01-01T06:59:59.000Z",
-      "seller": "CanTech",
-      "sku": "19506746",
-      "specs": {
-        "cpu": "AMD Ryzen AI 5 340",
-        "gpu": "GeForce RTX 5050",
-        "ram": "16GB RAM",
-        "screen": "15.6\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-gaming-laptop-mica-silver-amd-ryzen-ai-5-340-512gb-ssd-16gb-ram-geforce-rtx-5050/19506746"
-    },
     "19513055": {
       "availabilityText": "",
       "brand": null,
@@ -1835,45 +1832,6 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-15-15-6-gaming-laptop-cosmos-grey-intel-ci7-13620h-512gb-16gb-ram-geforce-rtx-4050/19613186"
-    },
-    "19613661": {
-      "availabilityText": "",
-      "brand": "ASUS",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-11-03T21:10:32.371Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613661.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - ASUS TUF Gaming A16 16\" Gaming Laptop - Mecha Grey (AMD Ryzen 7 7445HS/16GB RAM/512GB SSD/RTX 4050)",
-      "price": 1329.95,
-      "priceHistory": [
-        {
-          "p": 1329.95,
-          "t": "2026-11-10T17:58:31.682Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1699.95,
-      "relistedAt": "2026-11-10T17:58:31.682Z",
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "19613661",
-      "specs": {
-        "cpu": "AMD Ryzen 7 7445HS",
-        "gpu": "RTX 4050",
-        "ram": "16GB RAM",
-        "screen": "16\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-gaming-laptop-mecha-grey-amd-ryzen-7-7445hs-16gb-ram-512gb-ssd-rtx-4050/19613661"
     },
     "19614883": {
       "availabilityText": "",
@@ -2387,42 +2345,6 @@
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a18-laptop-amd-ryzen-7-260-processor-16gb-ram-1tb-ssd-18-inch-gaming-display-rgb-keyboard-windows-11-home-performance-gaming-notebook/20160968"
     },
-    "20171461": {
-      "availabilityText": "",
-      "brand": "HP",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20171/20171461.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - HP Victus 15.6\" 144Hz Gaming Laptop PC - AMD Ryzen 5 8645HS - 8GB DDR5 RAM - 512GB SSD - GeForce RTX 2050 - Windows 11 Home - Mica Silver",
-      "price": 854.99,
-      "priceHistory": [
-        {
-          "p": 854.99,
-          "t": "2026-11-05T22:17:10.002Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 999.99,
-      "relistedAt": "2026-11-05T22:17:10.002Z",
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "20171461",
-      "specs": {
-        "refresh": "144 Hz",
-        "screen": "15.6\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-144hz-gaming-laptop-pc-amd-ryzen-5-8645hs-8gb-ddr5-ram-512gb-ssd-geforce-rtx-2050-windows-11-home-mica-silver/20171461"
-    },
     "20183818": {
       "availabilityText": "",
       "brand": "Alienware",
@@ -2687,7 +2609,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20206/20206826.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Windows 11 Home - Luna Grey",
       "price": 1364.99,
@@ -2938,5 +2860,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-11T23:33:47.844Z"
+  "updatedAt": "2026-11-12T04:06:02.783Z"
 }
