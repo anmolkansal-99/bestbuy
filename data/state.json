@@ -290,6 +290,18 @@
       "sku": "19446974",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-alienware-16-aurora-16-gaming-laptop-blue-intel-core-7-240h-series-2-32gb-ram-1tb-ssd-geforce-rtx-5060-win11/19446974"
     },
+    "19451561": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-10T17:58:31.682Z",
+      "goneAt": "2026-11-13T01:13:38.856Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19451/19451561.jpeg",
+      "name": "Refurbished (Excellent) - Acer Nitro V 15.6\" Gaming Laptop (AMD Ryzen 5 7535HS/8GB RAM/512GB SSD/RTX3050/Windows 11)",
+      "price": 809.95,
+      "regularPrice": 1099.95,
+      "sku": "19451561",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-acer-nitro-v-15-6-gaming-laptop-amd-ryzen-5-7535hs-8gb-ram-512gb-ssd-rtx3050-windows-11/19451561"
+    },
     "19458354": {
       "brand": "Acer",
       "condition": "Open Box",
@@ -734,6 +746,18 @@
       "sku": "20206831",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-gaming-laptop-jaeger-grey-intel-core-i7-14650hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20206831"
     },
+    "20208440": {
+      "brand": "ASUS",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-11-13T01:13:38.856Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208440.jpeg",
+      "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Off Black (Intel Core i7 14650HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
+      "price": 1624.99,
+      "regularPrice": 1899.99,
+      "sku": "20208440",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-f16-16-gaming-laptop-off-black-intel-core-i7-14650hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20208440"
+    },
     "20208757": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -1130,7 +1154,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/182/18268/18268238.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) Lenovo Legion 5 17ACH6H Laptop | 17.3\" 1920x1080 FHD | Ryzen 5 - 5600H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce GTX 1650 | 6 cores @ 4.2 GHz -",
       "price": 899.99,
@@ -1269,7 +1293,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/192/19284/19284590.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS TUF Gaming F17 17.3\" Gaming Laptop - Mecha Grey (Intel Core 5 210H/16GB RAM/1TB SSD/GeForce RTX 4050)",
       "price": 1404.95,
@@ -1450,43 +1474,6 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-180hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr4-1tb-ssd-rtx-5060-windows-11-shale-black-1-year-warranty/19449876"
-    },
-    "19451561": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-10T17:58:31.682Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19451/19451561.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - Acer Nitro V 15.6\" Gaming Laptop (AMD Ryzen 5 7535HS/8GB RAM/512GB SSD/RTX3050/Windows 11)",
-      "price": 809.95,
-      "priceHistory": [
-        {
-          "p": 809.95,
-          "t": "2026-11-10T17:58:31.682Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1099.95,
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "19451561",
-      "specs": {
-        "cpu": "AMD Ryzen 5 7535HS",
-        "ram": "8GB RAM",
-        "screen": "15.6\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-acer-nitro-v-15-6-gaming-laptop-amd-ryzen-5-7535hs-8gb-ram-512gb-ssd-rtx3050-windows-11/19451561"
     },
     "19464891": {
       "availabilityText": "",
@@ -1950,7 +1937,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19911/19911720.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 Home - Luna Grey",
       "price": 1624.99,
@@ -2536,45 +2523,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-msi-thin-15-15-6-144hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr4-512gb-ssd-rtx-3050-cosmos-grey/20200967"
     },
-    "20208440": {
-      "availabilityText": "",
-      "brand": "ASUS",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208440.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Off Black (Intel Core i7 14650HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
-      "price": 1624.99,
-      "priceHistory": [
-        {
-          "p": 1624.99,
-          "t": "2026-11-10T17:58:31.682Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1899.99,
-      "relistedAt": "2026-11-10T17:58:31.682Z",
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "20208440",
-      "specs": {
-        "cpu": "Intel Core i7 14650HX",
-        "gpu": "GeForce RTX 5060",
-        "ram": "16GB RAM",
-        "screen": "16\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-f16-16-gaming-laptop-off-black-intel-core-i7-14650hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20208440"
-    },
     "20246000": {
       "availabilityText": "",
       "brand": "MSI",
@@ -2740,7 +2688,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20296/20296303.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "MSI Thin 15 15.6\" FHD Gaming Laptop Intel i5-12450H Nvidia GeForce RTX 2050 8GB 512GB SSD Windows 11 Home Open Box",
       "price": 898,
@@ -2764,5 +2712,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-12T20:22:35.605Z"
+  "updatedAt": "2026-11-13T01:13:38.856Z"
 }
