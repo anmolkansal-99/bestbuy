@@ -482,6 +482,18 @@
       "sku": "19613181",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-v16-16-gaming-laptop-intel-core-5-210h-16gb-ram-1tb-ssd-geforce-rtx-5050/19613181"
     },
+    "19613187": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-10-29T16:33:03.024Z",
+      "goneAt": "2026-11-14T19:45:25.316Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613187.jpeg",
+      "name": "Refurbished (Excellent) - ASUS V16 16\" Gaming Laptop -Matte Black (Intel Ci5 210H/16GB RAM/512GB SSD/GeForce RTX 3050)",
+      "price": 918.97,
+      "regularPrice": 1188.97,
+      "sku": "19613187",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-v16-16-gaming-laptop-matte-black-intel-ci5-210h-16gb-ram-512gb-ssd-geforce-rtx-3050/19613187"
+    },
     "19613189": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -769,6 +781,18 @@
       "regularPrice": 2099.95,
       "sku": "20206831",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-gaming-laptop-jaeger-grey-intel-core-i7-14650hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20206831"
+    },
+    "20208440": {
+      "brand": "ASUS",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T07:26:59.347Z",
+      "goneAt": "2026-11-14T19:45:25.316Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208440.jpeg",
+      "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Off Black (Intel Core i7 14650HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
+      "price": 1424.99,
+      "regularPrice": 2299.99,
+      "sku": "20208440",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-f16-16-gaming-laptop-off-black-intel-core-i7-14650hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20208440"
     },
     "20208757": {
       "brand": null,
@@ -1058,9 +1082,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1199.99,
+      "regularPrice": 1499.99,
       "saleEndDate": null,
-      "seller": "RBSDIST",
+      "seller": "Unlimited Gaming Technology Inc",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1742,7 +1766,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19512/19512751.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 1TB SSD - RTX 5060 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
       "price": 1650,
@@ -1838,45 +1862,6 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-thin-15-15-6-gaming-laptop-cosmos-grey-intel-ci7-13620h-512gb-16gb-ram-geforce-rtx-4050/19613186"
-    },
-    "19613187": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-10-29T16:33:03.024Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19613/19613187.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - ASUS V16 16\" Gaming Laptop -Matte Black (Intel Ci5 210H/16GB RAM/512GB SSD/GeForce RTX 3050)",
-      "price": 918.97,
-      "priceHistory": [
-        {
-          "p": 918.97,
-          "t": "2026-11-13T21:43:26.303Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1188.97,
-      "relistedAt": "2026-11-13T21:43:26.303Z",
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "19613187",
-      "specs": {
-        "cpu": "Intel Ci5 210H",
-        "gpu": "GeForce RTX 3050",
-        "ram": "16GB RAM",
-        "screen": "16\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-v16-16-gaming-laptop-matte-black-intel-ci5-210h-16gb-ram-512gb-ssd-geforce-rtx-3050/19613187"
     },
     "19613661": {
       "availabilityText": "",
@@ -2593,7 +2578,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20198/20198424.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming A16 16\" Gaming Laptop - Jaeger Grey (AMD Ryzen 7 260/16GB RAM/512GB SSD/GeForce RTX 5050/Windows 11)",
       "price": 1279.95,
@@ -2761,45 +2746,6 @@
         "screen": "16\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-windows-11-jaeger-grey/20208436"
-    },
-    "20208440": {
-      "availabilityText": "",
-      "brand": "ASUS",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T07:26:59.347Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208440.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - ASUS TUF F16 16\" Gaming Laptop - Off Black (Intel Core i7 14650HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
-      "price": 1424.99,
-      "priceHistory": [
-        {
-          "p": 1424.99,
-          "t": "2026-11-13T21:43:26.303Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 2299.99,
-      "relistedAt": "2026-11-13T21:43:26.303Z",
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "20208440",
-      "specs": {
-        "cpu": "Intel Core i7 14650HX",
-        "gpu": "GeForce RTX 5060",
-        "ram": "16GB RAM",
-        "screen": "16\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-f16-16-gaming-laptop-off-black-intel-core-i7-14650hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20208440"
     },
     "20209700": {
       "availabilityText": "",
@@ -3142,5 +3088,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-14T14:58:50.151Z"
+  "updatedAt": "2026-11-14T19:45:25.316Z"
 }
