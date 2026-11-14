@@ -1082,9 +1082,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1499.99,
+      "regularPrice": 1199.99,
       "saleEndDate": null,
-      "seller": "Unlimited Gaming Technology Inc",
+      "seller": "RBSDIST",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1248,7 +1248,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19304/19304230.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F17 17.3\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR5 - 1TB SSD - RTX 4050 - Windows 11 Home - Mecha Grey",
       "price": 1349.95,
@@ -1766,7 +1766,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19512/19512751.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 1TB SSD - RTX 5060 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
       "price": 1650,
@@ -2308,6 +2308,40 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-alienware-aurora-16-120hz-gaming-laptop-intel-core-7-240h-16gb-ddr5-1tb-ssd-geforce-rtx-5050-windows-11-home-blue/20063817"
     },
+    "20085868": {
+      "availabilityText": "",
+      "brand": "MSI",
+      "buyable": null,
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-14T23:25:29.463Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": true,
+        "onlineOnly": true,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/200/20085/20085868.jpeg",
+      "missCount": 0,
+      "model": null,
+      "name": "Open Box - MSI CYBORG 15 A13VF 15.6\"GAMING LAPTOP Intel Core i7 13620H 16 GB DDR5 RTX 4060 1TB SSD",
+      "price": 1699.99,
+      "priceHistory": [
+        {
+          "p": 1699.99,
+          "t": "2026-11-14T23:25:29.463Z"
+        }
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "regularPrice": 2299.99,
+      "saleEndDate": "2026-11-21T06:59:59.000Z",
+      "seller": "LULUBUY",
+      "sku": "20085868",
+      "specs": {
+        "screen": "15.6\""
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-msi-cyborg-15-a13vf-15-6-gaming-laptop-intel-core-i7-13620h-16-gb-ddr5-rtx-4060-1tb-ssd/20085868"
+    },
     "20122715": {
       "availabilityText": "",
       "brand": "ASUS",
@@ -2578,7 +2612,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/201/20198/20198424.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming A16 16\" Gaming Laptop - Jaeger Grey (AMD Ryzen 7 260/16GB RAM/512GB SSD/GeForce RTX 5050/Windows 11)",
       "price": 1279.95,
@@ -2913,7 +2947,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20266/20266068.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Win11 Home - Luna Grey",
       "price": 1349.99,
@@ -3088,5 +3122,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-14T19:45:25.316Z"
+  "updatedAt": "2026-11-14T23:25:29.463Z"
 }
