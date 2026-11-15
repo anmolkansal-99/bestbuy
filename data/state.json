@@ -398,6 +398,18 @@
       "sku": "19496320",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-v16-16-gaming-laptop-black-intel-core-5-210h-16gb-ram-1tb-ssd-geforce-rtx-5050-windows-11-home/19496320"
     },
+    "19496321": {
+      "brand": "Acer",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-10-29T16:33:03.024Z",
+      "goneAt": "2026-11-15T16:59:30.203Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19496/19496321.jpeg",
+      "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/1TB SSD/RTX 5060/Windows 11)",
+      "price": 1364.95,
+      "regularPrice": 1599.95,
+      "sku": "19496321",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-gaming-laptop-black-intel-core-i7-13620h-16gb-ram-1tb-ssd-rtx-5060-windows-11/19496321"
+    },
     "19496324": {
       "brand": "Lenovo",
       "condition": "Open Box",
@@ -1726,45 +1738,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-f16-16-165hz-gaming-laptop-intel-core-i7-14650hx-16gb-ddr5-1tb-ssd-geforce-rtx-5060-win11-home-jaeger-grey/19495851"
     },
-    "19496321": {
-      "availabilityText": "",
-      "brand": "Acer",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-10-29T16:33:03.024Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19496/19496321.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/1TB SSD/RTX 5060/Windows 11)",
-      "price": 1364.95,
-      "priceHistory": [
-        {
-          "p": 1364.95,
-          "t": "2026-11-13T21:43:26.303Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1599.95,
-      "relistedAt": "2026-11-13T21:43:26.303Z",
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "19496321",
-      "specs": {
-        "cpu": "Intel Core i7-13620H",
-        "gpu": "RTX 5060",
-        "ram": "16GB RAM",
-        "screen": "15.6\"",
-        "storage": "1TB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-gaming-laptop-black-intel-core-i7-13620h-16gb-ram-1tb-ssd-rtx-5060-windows-11/19496321"
-    },
     "19505976": {
       "availabilityText": "",
       "brand": "ASUS",
@@ -3058,5 +3031,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-15T10:05:23.708Z"
+  "updatedAt": "2026-11-15T16:59:30.203Z"
 }
