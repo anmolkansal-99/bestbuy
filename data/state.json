@@ -2011,7 +2011,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19744/19744196.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" Gaming Laptop - Luna Grey (Intel Core i7 - 14700HX/16GB RAM/1TB SSD/RTX 5050)",
       "price": 1263.97,
@@ -2930,7 +2930,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20288/20288345.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS TUF Gaming A16 16\" Gaming Laptop - Jaeger Grey (AMD Ryzen 7 260/16GB RAM/512GB SSD/GeForce RTX 5050/Windows 11)",
       "price": 1214.95,
@@ -3031,5 +3031,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-15T16:59:30.203Z"
+  "updatedAt": "2026-11-15T21:29:48.486Z"
 }
