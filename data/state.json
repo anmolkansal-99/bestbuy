@@ -194,6 +194,18 @@
       "sku": "19271355",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-v16-16-144hz-gaming-laptop-intel-core-7-240h-16gb-ddr5-1tb-ssd-geforce-rtx-4050-windows-11-home-matte-black/19271355"
     },
+    "19304230": {
+      "brand": "ASUS",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-10T17:58:31.682Z",
+      "goneAt": "2026-11-15T10:05:23.708Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19304/19304230.jpeg",
+      "name": "Open Box - ASUS TUF Gaming F17 17.3\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR5 - 1TB SSD - RTX 4050 - Windows 11 Home - Mecha Grey",
+      "price": 1349.95,
+      "regularPrice": 1799.95,
+      "sku": "19304230",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f17-17-3-144hz-gaming-laptop-intel-core-5-210h-16gb-ddr5-1tb-ssd-rtx-4050-windows-11-home-mecha-grey/19304230"
+    },
     "19327466": {
       "brand": "ASUS",
       "condition": "Open Box",
@@ -878,6 +890,18 @@
       "sku": "20226482",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-cyborg-17-17-3-144hz-gaming-laptop-intel-core-7-240h-16gb-ddr5-512gb-ssd-geforce-rtx-5050-windows-11-translucent-black/20226482"
     },
+    "20266068": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-05T22:17:10.002Z",
+      "goneAt": "2026-11-15T10:05:23.708Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20266/20266068.jpeg",
+      "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Win11 Home - Luna Grey",
+      "price": 1349.99,
+      "regularPrice": 2499.99,
+      "sku": "20266068",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-win11-home-luna-grey/20266068"
+    },
     "20280214": {
       "brand": "Lenovo",
       "condition": "Open Box",
@@ -1259,41 +1283,40 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-gaming-f17-17-3-gaming-laptop-mecha-grey-intel-core-5-210h-16gb-ram-1tb-ssd-geforce-rtx-4050/19284590"
     },
-    "19304230": {
+    "19304231": {
       "availabilityText": "",
       "brand": "ASUS",
       "buyable": null,
       "condition": "Open Box",
-      "firstSeenAt": "2026-11-10T17:58:31.682Z",
+      "firstSeenAt": "2026-11-15T10:05:23.708Z",
       "flags": {
         "clearance": false,
         "marketplace": true,
         "onlineOnly": true,
         "storeOnly": false
       },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19304/19304230.jpeg",
-      "missCount": 2,
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19304/19304231.jpeg",
+      "missCount": 0,
       "model": null,
-      "name": "Open Box - ASUS TUF Gaming F17 17.3\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR5 - 1TB SSD - RTX 4050 - Windows 11 Home - Mecha Grey",
-      "price": 1349.95,
+      "name": "Open Box - ASUS TUF Gaming F16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 32GB DDR5 - 1TB SSD - GeForce RTX 4050 - Windows 11 Home - Mecha Grey",
+      "price": 1373.97,
       "priceHistory": [
         {
-          "p": 1349.95,
-          "t": "2026-11-13T21:43:26.303Z"
+          "p": 1373.97,
+          "t": "2026-11-15T10:05:23.708Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1799.95,
-      "relistedAt": "2026-11-13T21:43:26.303Z",
+      "regularPrice": 1498.97,
       "saleEndDate": null,
       "seller": "PRO OB",
-      "sku": "19304230",
+      "sku": "19304231",
       "specs": {
         "refresh": "144 Hz",
-        "screen": "17.3\""
+        "screen": "16\""
       },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f17-17-3-144hz-gaming-laptop-intel-core-5-210h-16gb-ddr5-1tb-ssd-rtx-4050-windows-11-home-mecha-grey/19304230"
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-144hz-gaming-laptop-intel-core-5-210h-32gb-ddr5-1tb-ssd-geforce-rtx-4050-windows-11-home-mecha-grey/19304231"
     },
     "19312649": {
       "availabilityText": "",
@@ -1716,7 +1739,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19496/19496321.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop - Black (Intel Core i7-13620H/16GB RAM/1TB SSD/RTX 5060/Windows 11)",
       "price": 1364.95,
@@ -2883,42 +2906,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-alienware-15-3-gaming-laptop-black-amd-ryzen-5-220-16gb-ram-512gb-ssd-geforce-rtx-4050-windows-11-home/20265327"
     },
-    "20266068": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-05T22:17:10.002Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20266/20266068.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Win11 Home - Luna Grey",
-      "price": 1349.99,
-      "priceHistory": [
-        {
-          "p": 1349.99,
-          "t": "2026-11-13T21:43:26.303Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 2499.99,
-      "relistedAt": "2026-11-13T21:43:26.303Z",
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "20266068",
-      "specs": {
-        "refresh": "144 Hz",
-        "screen": "15.6\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-win11-home-luna-grey/20266068"
-    },
     "20279982": {
       "availabilityText": "",
       "brand": "ASUS",
@@ -3071,5 +3058,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-15T02:54:33.750Z"
+  "updatedAt": "2026-11-15T10:05:23.708Z"
 }
