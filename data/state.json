@@ -2011,7 +2011,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19744/19744196.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" Gaming Laptop - Luna Grey (Intel Core i7 - 14700HX/16GB RAM/1TB SSD/RTX 5050)",
       "price": 1263.97,
@@ -2177,11 +2177,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19964/19964307.png",
-      "lastPriceChangeAt": "2026-11-06T09:46:52.991Z",
+      "lastPriceChangeAt": "2026-11-16T01:18:55.024Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box Dell 16-in Large Touchscreen, Gaming on AMD Ryzen 7 250 w/ AMD Radeon 780M, 32GB RAM, 2TB SSD, High-end 38 TOPS for AI, Black",
-      "price": 1529.99,
+      "price": 1549.99,
       "priceHistory": [
         {
           "p": 1559.99,
@@ -2214,6 +2214,10 @@
         {
           "p": 1529.99,
           "t": "2026-11-06T09:46:52.991Z"
+        },
+        {
+          "p": 1549.99,
+          "t": "2026-11-16T01:18:55.024Z"
         }
       ],
       "rating": null,
@@ -2930,7 +2934,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20288/20288345.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS TUF Gaming A16 16\" Gaming Laptop - Jaeger Grey (AMD Ryzen 7 260/16GB RAM/512GB SSD/GeForce RTX 5050/Windows 11)",
       "price": 1214.95,
@@ -3031,5 +3035,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-15T21:29:48.486Z"
+  "updatedAt": "2026-11-16T01:18:55.024Z"
 }
