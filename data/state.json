@@ -578,6 +578,18 @@
       "sku": "19700427",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-165hz-gaming-laptop-intel-core-i9-13900h-32gb-ddr4-1tb-ssd-rtx-5060-windows-11-obsidian-black/19700427"
     },
+    "19744196": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-13T21:43:26.303Z",
+      "goneAt": "2026-11-16T08:03:46.336Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19744/19744196.jpeg",
+      "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" Gaming Laptop - Luna Grey (Intel Core i7 - 14700HX/16GB RAM/1TB SSD/RTX 5050)",
+      "price": 1263.97,
+      "regularPrice": 1798.97,
+      "sku": "19744196",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-loq-15-6-gaming-laptop-luna-grey-intel-core-i7-14700hx-16gb-ram-1tb-ssd-rtx-5050/19744196"
+    },
     "19757869": {
       "brand": "Alienware",
       "condition": "Open Box",
@@ -925,6 +937,18 @@
       "regularPrice": 1299.99,
       "sku": "20280214",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-loq-15iax9-15-6-fhd-144hz-gaming-laptop-i5-12450hx-16gb-512gb-rtx-2050-4gb-wifibt/20280214"
+    },
+    "20288345": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-13T21:43:26.303Z",
+      "goneAt": "2026-11-16T08:03:46.336Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20288/20288345.jpeg",
+      "name": "Refurbished (Excellent) - ASUS TUF Gaming A16 16\" Gaming Laptop - Jaeger Grey (AMD Ryzen 7 260/16GB RAM/512GB SSD/GeForce RTX 5050/Windows 11)",
+      "price": 1214.95,
+      "regularPrice": 1499.95,
+      "sku": "20288345",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-gaming-a16-16-gaming-laptop-jaeger-grey-amd-ryzen-7-260-16gb-ram-512gb-ssd-geforce-rtx-5050-windows-11/20288345"
     },
     "20296303": {
       "brand": "MSI",
@@ -1998,44 +2022,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-msi-cyborg-15-6-gaming-laptop-translucent-black-intel-core-9-270h-32gb-ram-1tb-ssd-rtx-5060-win11/19743701"
     },
-    "19744196": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-13T21:43:26.303Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19744/19744196.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" Gaming Laptop - Luna Grey (Intel Core i7 - 14700HX/16GB RAM/1TB SSD/RTX 5050)",
-      "price": 1263.97,
-      "priceHistory": [
-        {
-          "p": 1263.97,
-          "t": "2026-11-13T21:43:26.303Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1798.97,
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "19744196",
-      "specs": {
-        "cpu": "Intel Core i7 - 14700HX",
-        "gpu": "RTX 5050",
-        "ram": "16GB RAM",
-        "screen": "15.6\"",
-        "storage": "1TB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-loq-15-6-gaming-laptop-luna-grey-intel-core-i7-14700hx-16gb-ram-1tb-ssd-rtx-5050/19744196"
-    },
     "19776685": {
       "availabilityText": "",
       "brand": "Acer",
@@ -2274,7 +2260,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/200/20063/20063817.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Alienware Aurora 16\" 120Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 1TB SSD - GeForce RTX 5050 - Windows 11 Home - Blue",
       "price": 1278.97,
@@ -2673,7 +2659,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20206/20206828.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" 165Hz Gaming Laptop - Intel Core i7-14650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5070 - Windows 11 Home - Jaeger Grey",
       "price": 1799.99,
@@ -2921,44 +2907,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-rog-strix-g16-16-gaming-laptop-eclipse-grey-amd-ryzen-9-8940hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20279982"
     },
-    "20288345": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-13T21:43:26.303Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20288/20288345.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - ASUS TUF Gaming A16 16\" Gaming Laptop - Jaeger Grey (AMD Ryzen 7 260/16GB RAM/512GB SSD/GeForce RTX 5050/Windows 11)",
-      "price": 1214.95,
-      "priceHistory": [
-        {
-          "p": 1214.95,
-          "t": "2026-11-13T21:43:26.303Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1499.95,
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "20288345",
-      "specs": {
-        "cpu": "AMD Ryzen 7 260",
-        "gpu": "GeForce RTX 5050",
-        "ram": "16GB RAM",
-        "screen": "16\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-gaming-a16-16-gaming-laptop-jaeger-grey-amd-ryzen-7-260-16gb-ram-512gb-ssd-geforce-rtx-5050-windows-11/20288345"
-    },
     "20288349": {
       "availabilityText": "",
       "brand": null,
@@ -3035,5 +2983,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-16T01:18:55.024Z"
+  "updatedAt": "2026-11-16T08:03:46.336Z"
 }
