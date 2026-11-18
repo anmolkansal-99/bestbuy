@@ -846,7 +846,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/143/14307/14307897.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - Alienware M15 R2 - 15\" FHD - NVIDIA RTX 2070 - i7-9750H - 16GB - 256GB SSD - WIN10 HOME - Certified Refurbished",
       "price": 1399.99,
@@ -880,7 +880,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/143/14307/14307903.jpg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Alienware M15 R2 - 15\" FHD - NVIDIA RTX 2070 - i7-9750H - 16GB - 512GB SSD - WIN10 HOME - Certified Refurbished",
       "price": 1499.99,
@@ -1022,7 +1022,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/179/17908/17908033.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS ROG Zephyrus G16 OLED Nebula16\" Gaming Laptop (Intel Core Ultra 7 155H/512GB SSD/16GB RAM/RTX 4060)",
       "price": 1594.97,
@@ -1235,7 +1235,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19304/19304231.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 32GB DDR5 - 1TB SSD - GeForce RTX 4050 - Windows 11 Home - Mecha Grey",
       "price": 1373.97,
@@ -1270,7 +1270,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/193/19312/19312649.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF F15 15.6\" 144Hz Gaming Laptop - Intel Core i7-13620H - 16GB RAM - 1TB SSD - RTX 4060 - Windows 11 Home - Mecha Grey",
       "price": 1518.97,
@@ -1485,7 +1485,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19431/19431777.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" Gaming Laptop (AMD Ryzen 5 7535HS/8GB RAM/512GB SSD/RTX3050/Windows 11)",
       "price": 824.95,
@@ -1639,7 +1639,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19447/19447557.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" 165Hz Gaming Laptop - AMD Ryzen 7 7735HS - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Black",
       "price": 1089.99,
@@ -1901,7 +1901,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19504/19504164.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - Lenovo Legion 5i 15.1\" Gaming Laptop - Eclipse Black (Intel Core i7-14700HX/16GB RAM/1TB SSD/RTX 5060)",
       "price": 1379.95,
@@ -1975,7 +1975,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19506/19506742.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" Gaming Laptop - Mecha Grey (Intel Core 5 210H/16GB RAM/512GB SSD/GeForce RTX 3050)",
       "price": 899.95,
@@ -2314,7 +2314,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/196/19677/19677110.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) -Lenovo Legion 5i 15.1\" Gaming Laptop -Eclipse Black (Intel Core Ultra 7 255HX/16GB RAM/1TB SSD/RTX 5050)",
       "price": 1154.95,
@@ -2390,19 +2390,24 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19744/19744196.jpeg",
+      "lastPriceChangeAt": "2026-11-18T01:20:39.398Z",
       "missCount": 0,
       "model": null,
       "name": "Refurbished (Excellent) - Lenovo LOQ 15.6\" Gaming Laptop - Luna Grey (Intel Core i7 - 14700HX/16GB RAM/1TB SSD/RTX 5050)",
-      "price": 1263.97,
+      "price": 1259.97,
       "priceHistory": [
         {
           "p": 1263.97,
           "t": "2026-11-17T18:46:46.998Z"
+        },
+        {
+          "p": 1259.97,
+          "t": "2026-11-18T01:20:39.398Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1798.97,
+      "regularPrice": 1499.97,
       "relistedAt": "2026-11-17T18:46:46.998Z",
       "saleEndDate": null,
       "seller": "Tech Outlet Center",
@@ -2468,11 +2473,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19776/19776685.jpeg",
-      "lastPriceChangeAt": "2026-11-17T18:46:46.998Z",
+      "lastPriceChangeAt": "2026-11-18T01:20:39.398Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 512GB SSD - RTX 5050 - Windows 11 Home - Shale Black - w/ 1 Year Warranty",
-      "price": 1599,
+      "price": 1650,
       "priceHistory": [
         {
           "p": 1450,
@@ -2497,6 +2502,10 @@
         {
           "p": 1599,
           "t": "2026-11-17T18:46:46.998Z"
+        },
+        {
+          "p": 1650,
+          "t": "2026-11-18T01:20:39.398Z"
         }
       ],
       "rating": null,
@@ -2565,7 +2574,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19911/19911720.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 Home - Luna Grey",
       "price": 1424.99,
@@ -3168,7 +3177,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20206/20206826.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Windows 11 Home - Luna Grey",
       "price": 1199.99,
@@ -3529,5 +3538,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-17T18:46:46.998Z"
+  "updatedAt": "2026-11-18T01:20:39.398Z"
 }
