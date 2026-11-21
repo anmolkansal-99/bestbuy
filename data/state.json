@@ -842,18 +842,6 @@
       "sku": "20171461",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-hp-victus-15-6-144hz-gaming-laptop-pc-amd-ryzen-5-8645hs-8gb-ddr5-ram-512gb-ssd-geforce-rtx-2050-windows-11-home-mica-silver/20171461"
     },
-    "20171624": {
-      "brand": "ASUS",
-      "condition": "Open Box",
-      "firstSeenAt": "2026-11-05T22:17:10.002Z",
-      "goneAt": "2026-11-10T10:21:44.107Z",
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/201/20171/20171624.jpg",
-      "name": "Open Box - ASUS TUF Gaming A16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Windows 11 - Jaeger Grey",
-      "price": 1799.99,
-      "regularPrice": 1799.99,
-      "sku": "20171624",
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-windows-11-jaeger-grey/20171624"
-    },
     "20171631": {
       "brand": "MSI",
       "condition": "Open Box",
@@ -1192,7 +1180,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/177/17731/17731818.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - MSI Cyborg 15 A12U 15.6\" Gaming Laptop (Intel Ci5-12450H/512GB SSD/8GB RAM/GeForce RTX 2050)",
       "price": 979.99,
@@ -1300,7 +1288,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/179/17986/17986147.jpg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" Gaming Laptop - Black (Intel Core i5-13420H/512GB SSD/8GB RAM/RTX2050)",
       "price": 509.99,
@@ -1411,7 +1399,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/189/18955/18955605.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) MSI Cyborg 15 A12U Laptop | 15.6\" 1920x1080 FHD | Core i5 - 12450H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce RTX 2050 | 8 cores @ 4.40 GHz - 4GB",
       "price": 999.99,
@@ -1445,7 +1433,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/192/19266/19266933.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - Acer Predator Helios Neo 16\" 165Hz Gaming Laptop (Intel Core i9-14900HX/16GB RAM/1TB SSD/RTX 4060)",
       "price": 1349.97,
@@ -1629,7 +1617,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19446/19446977.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - HP OMEN MAX 16 16\" Gaming Laptop - Shadow Black (Intel Core Ultra 7 255HX/16GB RAM/1TB SSD/GeForce RTX 5060)",
       "price": 1784.95,
@@ -1719,7 +1707,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19458/19458354.jpg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Predator Helios Neo 16\" Gaming Laptop - Intel Core Ultra 9 275HX - 16GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 - Black",
       "price": 1759.99,
@@ -1859,7 +1847,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/194/19482/19482244.jpg",
-      "missCount": 1,
+      "missCount": 0,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" 144Hz Gaming Laptop - Intel Core 5 210H - 16GB DDR4 - 512GB SSD - GeForce RTX 3050 - Windows 11 Home - Mecha Grey",
       "price": 949.99,
@@ -2164,7 +2152,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/197/19700/19700427.jpg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 15.6\" 165Hz Gaming Laptop - Intel Core i9-13900H - 32GB DDR4 - 1TB SSD - RTX 5060 - Windows 11 - Obsidian Black",
       "price": 1599.99,
@@ -2518,7 +2506,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/200/20014/20014487.jpg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - HP Victus 15.6\" 144Hz Gaming Laptop PC - AMD Ryzen 5 8645HS - 8GB DDR5 RAM - 512GB SSD - GeForce RTX 2050 - Windows 11 Home - Mica Silver",
       "price": 899.99,
@@ -2670,7 +2658,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/201/20140/20140331.jpg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i7-13650HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5050 - Luna Grey",
       "price": 1439.99,
@@ -2764,6 +2752,42 @@
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a18-laptop-amd-ryzen-7-260-processor-16gb-ram-1tb-ssd-18-inch-gaming-display-rgb-keyboard-windows-11-home-performance-gaming-notebook/20160968"
     },
+    "20171624": {
+      "availabilityText": "",
+      "brand": "ASUS",
+      "buyable": null,
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-05T22:17:10.002Z",
+      "flags": {
+        "clearance": false,
+        "marketplace": false,
+        "onlineOnly": false,
+        "storeOnly": false
+      },
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/201/20171/20171624.jpg",
+      "missCount": 0,
+      "model": null,
+      "name": "Open Box - ASUS TUF Gaming A16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Windows 11 - Jaeger Grey",
+      "price": 1799.99,
+      "priceHistory": [
+        {
+          "p": 1799.99,
+          "t": "2026-11-21T00:15:47.861Z"
+        }
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "regularPrice": 1799.99,
+      "relistedAt": "2026-11-21T00:15:47.861Z",
+      "saleEndDate": "2026-11-30T07:00:00.000Z",
+      "seller": null,
+      "sku": "20171624",
+      "specs": {
+        "refresh": "165 Hz",
+        "screen": "16\""
+      },
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-windows-11-jaeger-grey/20171624"
+    },
     "20183818": {
       "availabilityText": "",
       "brand": "Alienware",
@@ -2778,7 +2802,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/201/20183/20183818.jpg",
       "lastPriceChangeAt": "2026-11-18T08:39:02.315Z",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Alienware 15.3\" Gaming Laptop - Black (AMD Ryzen 5 220/16GB RAM/512GB SSD/GeForce RTX 4050/Windows 11 Home)",
       "price": 1349.99,
@@ -2972,7 +2996,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/202/20200/20200951.jpg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming F16 16\" Gaming Laptop - Mecha Grey (Intel Core 5 205H/16GB RAM/512GB SSD/GeForce RTX 3050)",
       "price": 1079.99,
@@ -3048,7 +3072,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20209/20209700.jpeg",
       "lastPriceChangeAt": "2026-11-19T21:47:23.810Z",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" 165Hz Gaming Laptop - Intel Core Ultra 7 255HX - 16GB DDR5 - 512GB SSD - RTX 5060 - Windows 11 - Eclipse Grey",
       "price": 1614.99,
@@ -3429,5 +3453,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-20T18:43:17.833Z"
+  "updatedAt": "2026-11-21T00:15:47.861Z"
 }
