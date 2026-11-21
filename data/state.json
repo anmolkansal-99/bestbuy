@@ -794,6 +794,18 @@
       "sku": "19757869",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-alienware-aurora-16-gaming-laptop-blue-intel-core-7-240h-16gb-ram-1tb-ssd-geforce-rtx-5050-windows-11-home/19757869"
     },
+    "19796477": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-03T21:10:32.371Z",
+      "goneAt": "2026-11-21T20:56:41.935Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19796/19796477.jpeg",
+      "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" 240Hz HDR Gaming Laptop - Intel Core i7-14650HX - 16GB DDR5 - 1TB SSD - RTX 5050 - Win11 - Eclipse Gray",
+      "price": 1709.95,
+      "regularPrice": 2449.95,
+      "sku": "19796477",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-240hz-hdr-gaming-laptop-intel-core-i7-14650hx-16gb-ddr5-1tb-ssd-rtx-5050-win11-eclipse-gray/19796477"
+    },
     "19825458": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -1118,6 +1130,18 @@
       "sku": "20209700",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-165hz-gaming-laptop-intel-core-ultra-7-255hx-16gb-ddr5-512gb-ssd-rtx-5060-windows-11-eclipse-grey/20209700"
     },
+    "20226395": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-10-29T16:33:03.024Z",
+      "goneAt": "2026-11-21T20:56:41.935Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20226/20226395.jpeg",
+      "name": "Refurbished (Excellent) - ASUS TUF Gaming A16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Windows 11 - Jaeger Grey",
+      "price": 1624.99,
+      "regularPrice": 1999.99,
+      "sku": "20226395",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-gaming-a16-16-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-windows-11-jaeger-grey/20226395"
+    },
     "20226477": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -1336,9 +1360,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1199.99,
+      "regularPrice": 1499.99,
       "saleEndDate": null,
-      "seller": "RBSDIST",
+      "seller": "Unlimited Gaming Technology Inc",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1430,7 +1454,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/189/18946/18946338.jpeg",
       "lastPriceChangeAt": "2026-11-19T21:47:23.810Z",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Refurbished (Excellent) Acer Nitro V 15 ANV15-51 Laptop (2023) | 15.6\" 1920x1080 FHD | Core i5 - 13420H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce RTX 3050 | 8 cores @",
       "price": 1079.99,
@@ -2160,51 +2184,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-165hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr4-512gb-ssd-rtx-5050-windows-11-home-shale-black-w-1-year-warranty/19776685"
     },
-    "19796477": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-03T21:10:32.371Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/197/19796/19796477.jpeg",
-      "lastPriceChangeAt": "2026-11-19T21:47:23.810Z",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - ASUS ROG Strix G16 16\" 240Hz HDR Gaming Laptop - Intel Core i7-14650HX - 16GB DDR5 - 1TB SSD - RTX 5050 - Win11 - Eclipse Gray",
-      "price": 1709.95,
-      "priceHistory": [
-        {
-          "p": 1884.95,
-          "t": "2026-11-10T17:58:31.682Z"
-        },
-        {
-          "p": 1744.95,
-          "t": "2026-11-13T21:43:26.303Z"
-        },
-        {
-          "p": 1709.95,
-          "t": "2026-11-19T21:47:23.810Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 2449.95,
-      "relistedAt": "2026-11-10T17:58:31.682Z",
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "19796477",
-      "specs": {
-        "refresh": "240 Hz",
-        "screen": "16\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-rog-strix-g16-16-240hz-hdr-gaming-laptop-intel-core-i7-14650hx-16gb-ddr5-1tb-ssd-rtx-5050-win11-eclipse-gray/19796477"
-    },
     "19955449": {
       "availabilityText": "",
       "brand": "MSI",
@@ -2253,16 +2232,12 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19964/19964307.png",
-      "lastPriceChangeAt": "2026-11-21T07:14:12.982Z",
+      "lastPriceChangeAt": "2026-11-21T20:56:41.935Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box Dell 16-in Large Touchscreen, Gaming on AMD Ryzen 7 250 w/ AMD Radeon 780M, 32GB RAM, 2TB SSD, High-end 38 TOPS for AI, Black",
-      "price": 1599.99,
+      "price": 1569.99,
       "priceHistory": [
-        {
-          "p": 1559.99,
-          "t": "2026-10-29T07:26:59.347Z"
-        },
         {
           "p": 1599.99,
           "t": "2026-10-29T09:56:05.301Z"
@@ -2306,13 +2281,17 @@
         {
           "p": 1599.99,
           "t": "2026-11-21T07:14:12.982Z"
+        },
+        {
+          "p": 1569.99,
+          "t": "2026-11-21T20:56:41.935Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 2999.99,
+      "regularPrice": 2299.99,
       "saleEndDate": null,
-      "seller": "Circle Tech",
+      "seller": "Unicore Wholesale Com",
       "sku": "19964307",
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-dell-16-in-large-touchscreen-gaming-on-amd-ryzen-7-250-w-amd-radeon-780m-32gb-ram-2tb-ssd-high-end-38-tops-for-ai-black/19964307"
@@ -2397,7 +2376,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/200/20085/20085868.jpeg",
-      "missCount": 2,
+      "missCount": 0,
       "model": null,
       "name": "Open Box - MSI CYBORG 15 A13VF 15.6\"GAMING LAPTOP Intel Core i7 13620H 16 GB DDR5 RTX 4060 1TB SSD",
       "price": 1699.99,
@@ -2410,7 +2389,7 @@
       "rating": null,
       "ratingCount": 0,
       "regularPrice": 2299.99,
-      "saleEndDate": "2026-11-21T06:59:59.000Z",
+      "saleEndDate": "2026-12-01T06:59:59.000Z",
       "seller": "LULUBUY",
       "sku": "20085868",
       "specs": {
@@ -2834,42 +2813,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-alienware-15-3-gaming-laptop-black-amd-ryzen-7-260-16gb-ram-1tb-ssd-geforce-rtx-5050-windows-11-home/20209706"
     },
-    "20226395": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-10-29T16:33:03.024Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20226/20226395.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) - ASUS TUF Gaming A16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Windows 11 - Jaeger Grey",
-      "price": 1624.99,
-      "priceHistory": [
-        {
-          "p": 1624.99,
-          "t": "2026-11-19T21:47:23.810Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1999.99,
-      "relistedAt": "2026-11-19T21:47:23.810Z",
-      "saleEndDate": null,
-      "seller": "Tech Outlet Center",
-      "sku": "20226395",
-      "specs": {
-        "refresh": "165 Hz",
-        "screen": "16\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-gaming-a16-16-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-windows-11-jaeger-grey/20226395"
-    },
     "20229766": {
       "availabilityText": "",
       "brand": "Alienware",
@@ -3149,5 +3092,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-21T15:23:15.186Z"
+  "updatedAt": "2026-11-21T20:56:41.935Z"
 }
