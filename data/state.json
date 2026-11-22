@@ -194,6 +194,18 @@
       "sku": "18602100",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-asus-tuf-gaming-f15-15-6-144hz-gaming-laptop-intel-core-i5-12500h-16gb-ram-512gb-ssd-rtx-3050/18602100"
     },
+    "18946338": {
+      "brand": null,
+      "condition": "Refurbished (Excellent)",
+      "firstSeenAt": "2026-11-19T13:39:56.789Z",
+      "goneAt": "2026-11-22T00:52:05.966Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/189/18946/18946338.jpeg",
+      "name": "Refurbished (Excellent) Acer Nitro V 15 ANV15-51 Laptop (2023) | 15.6\" 1920x1080 FHD | Core i5 - 13420H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce RTX 3050 | 8 cores @",
+      "price": 1079.99,
+      "regularPrice": 1649.99,
+      "sku": "18946338",
+      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-acer-nitro-v-15-anv15-51-laptop-2023-15-6-1920x1080-fhd-core-i5-13420h-512gb-ssd-hard-drive-16gb-ram-nvidia-geforce-rtx-3050-8-cores/18946338"
+    },
     "18946682": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -1360,9 +1372,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1499.99,
+      "regularPrice": 1199.99,
       "saleEndDate": null,
-      "seller": "Unlimited Gaming Technology Inc",
+      "seller": "RBSDIST",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1439,45 +1451,6 @@
         "screen": "15.6\""
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-15-6-144hz-gaming-laptop-intel-core-i7-13620h-16gb-ddr5-512gb-ssd-rtx-4050-windows-11-black/18388179"
-    },
-    "18946338": {
-      "availabilityText": "",
-      "brand": null,
-      "buyable": null,
-      "condition": "Refurbished (Excellent)",
-      "firstSeenAt": "2026-11-19T13:39:56.789Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/189/18946/18946338.jpeg",
-      "lastPriceChangeAt": "2026-11-19T21:47:23.810Z",
-      "missCount": 2,
-      "model": null,
-      "name": "Refurbished (Excellent) Acer Nitro V 15 ANV15-51 Laptop (2023) | 15.6\" 1920x1080 FHD | Core i5 - 13420H - 512GB SSD Hard Drive - 16GB RAM - Nvidia GeForce RTX 3050 | 8 cores @",
-      "price": 1079.99,
-      "priceHistory": [
-        {
-          "p": 1649.99,
-          "t": "2026-11-19T13:39:56.789Z"
-        },
-        {
-          "p": 1079.99,
-          "t": "2026-11-19T21:47:23.810Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1649.99,
-      "saleEndDate": "2026-12-01T06:59:59.000Z",
-      "seller": "Price Slice",
-      "sku": "18946338",
-      "specs": {
-        "screen": "15.6\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-acer-nitro-v-15-anv15-51-laptop-2023-15-6-1920x1080-fhd-core-i5-13420h-512gb-ssd-hard-drive-16gb-ram-nvidia-geforce-rtx-3050-8-cores/18946338"
     },
     "19319566": {
       "availabilityText": "",
@@ -1759,19 +1732,24 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19471/19471558.webp",
+      "lastPriceChangeAt": "2026-11-22T00:52:05.966Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - AMD Ryzen 7 7735HS - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Shale Black - w/ 1 Year Warranty",
-      "price": 1425,
+      "price": 1499,
       "priceHistory": [
         {
           "p": 1425,
           "t": "2026-10-29T07:26:59.347Z"
+        },
+        {
+          "p": 1499,
+          "t": "2026-11-22T00:52:05.966Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1499,
+      "regularPrice": 1599,
       "saleEndDate": null,
       "seller": "Acer Authorized Canada",
       "sku": "19471558",
@@ -3092,5 +3070,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-21T20:56:41.935Z"
+  "updatedAt": "2026-11-22T00:52:05.966Z"
 }
