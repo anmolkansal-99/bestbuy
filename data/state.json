@@ -2729,7 +2729,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208436.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming A16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Windows 11 - Jaeger Grey",
       "price": 1709.99,
@@ -2922,7 +2922,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20265/20265327.jpeg",
       "lastPriceChangeAt": "2026-11-20T18:43:17.833Z",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Alienware 15.3\" Gaming Laptop - Black (AMD Ryzen 5 220/16GB RAM/512GB SSD/GeForce RTX 4050/Windows 11 Home)",
       "price": 1279.99,
@@ -2964,7 +2964,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20279/20279982.jpeg",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - ASUS ROG Strix G16 16\" Gaming Laptop - Eclipse Grey (AMD Ryzen 9 8940HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
       "price": 1879.99,
@@ -3070,5 +3070,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-22T00:52:05.966Z"
+  "updatedAt": "2026-11-22T07:33:02.736Z"
 }
