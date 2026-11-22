@@ -1106,6 +1106,18 @@
       "sku": "20206831",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-f16-16-gaming-laptop-jaeger-grey-intel-core-i7-14650hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20206831"
     },
+    "20208436": {
+      "brand": "ASUS",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-13T21:43:26.303Z",
+      "goneAt": "2026-11-22T21:14:00.454Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208436.jpeg",
+      "name": "Open Box - ASUS TUF Gaming A16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Windows 11 - Jaeger Grey",
+      "price": 1709.99,
+      "regularPrice": 1999.99,
+      "sku": "20208436",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-windows-11-jaeger-grey/20208436"
+    },
     "20208440": {
       "brand": "ASUS",
       "condition": "Open Box",
@@ -1190,6 +1202,18 @@
       "sku": "20250886",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-lenovo-legion-5i-15-3-165hz-hdr-gaming-laptop-intel-core-ultra-7-251hx-32gb-ddr5-1tb-ssd-rtx-5060-windows-11-home-eclipse-black/20250886"
     },
+    "20265327": {
+      "brand": "Alienware",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-05T22:17:10.002Z",
+      "goneAt": "2026-11-22T21:14:00.454Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20265/20265327.jpeg",
+      "name": "Open Box - Alienware 15.3\" Gaming Laptop - Black (AMD Ryzen 5 220/16GB RAM/512GB SSD/GeForce RTX 4050/Windows 11 Home)",
+      "price": 1279.99,
+      "regularPrice": 1499.99,
+      "sku": "20265327",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-alienware-15-3-gaming-laptop-black-amd-ryzen-5-220-16gb-ram-512gb-ssd-geforce-rtx-4050-windows-11-home/20265327"
+    },
     "20266068": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -1201,6 +1225,18 @@
       "regularPrice": 2499.99,
       "sku": "20266068",
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-lenovo-loq-15-6-144hz-gaming-laptop-intel-core-i7-13650hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-win11-home-luna-grey/20266068"
+    },
+    "20279982": {
+      "brand": "ASUS",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-13T21:43:26.303Z",
+      "goneAt": "2026-11-22T21:14:00.454Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20279/20279982.jpeg",
+      "name": "Open Box - ASUS ROG Strix G16 16\" Gaming Laptop - Eclipse Grey (AMD Ryzen 9 8940HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
+      "price": 1879.99,
+      "regularPrice": 2199.99,
+      "sku": "20279982",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-rog-strix-g16-16-gaming-laptop-eclipse-grey-amd-ryzen-9-8940hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20279982"
     },
     "20280214": {
       "brand": "Lenovo",
@@ -1533,7 +1569,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19442/19442826.webp",
       "lastPriceChangeAt": "2026-11-07T18:51:09.589Z",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Acer Nitro V 17 AI 17.3\" 144Hz Gaming Laptop - AMD Ryzen AI 5-340 - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Black - w/ 1 Year Warranty",
       "price": 1550,
@@ -1610,11 +1646,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19449/19449876.jpeg",
-      "lastPriceChangeAt": "2026-11-19T21:47:23.810Z",
+      "lastPriceChangeAt": "2026-11-22T21:14:00.454Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 180Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR4 - 1TB SSD - RTX 5060 - Windows 11 - Shale Black - 1 Year Warranty",
-      "price": 1650,
+      "price": 1750,
       "priceHistory": [
         {
           "p": 1650,
@@ -1635,11 +1671,15 @@
         {
           "p": 1650,
           "t": "2026-11-19T21:47:23.810Z"
+        },
+        {
+          "p": 1750,
+          "t": "2026-11-22T21:14:00.454Z"
         }
       ],
       "rating": 4.67,
       "ratingCount": 3,
-      "regularPrice": 1799,
+      "regularPrice": 1899,
       "saleEndDate": null,
       "seller": "Acer Authorized Canada",
       "sku": "19449876",
@@ -1732,11 +1772,11 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19471/19471558.webp",
-      "lastPriceChangeAt": "2026-11-22T00:52:05.966Z",
+      "lastPriceChangeAt": "2026-11-22T21:14:00.454Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box - Acer Nitro V 15 15.6\" 165Hz Gaming Laptop - AMD Ryzen 7 7735HS - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Shale Black - w/ 1 Year Warranty",
-      "price": 1499,
+      "price": 1550,
       "priceHistory": [
         {
           "p": 1425,
@@ -1745,6 +1785,10 @@
         {
           "p": 1499,
           "t": "2026-11-22T00:52:05.966Z"
+        },
+        {
+          "p": 1550,
+          "t": "2026-11-22T21:14:00.454Z"
         }
       ],
       "rating": null,
@@ -2210,16 +2254,12 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19964/19964307.png",
-      "lastPriceChangeAt": "2026-11-22T15:36:48.233Z",
+      "lastPriceChangeAt": "2026-11-22T21:14:00.454Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box Dell 16-in Large Touchscreen, Gaming on AMD Ryzen 7 250 w/ AMD Radeon 780M, 32GB RAM, 2TB SSD, High-end 38 TOPS for AI, Black",
-      "price": 1599.99,
+      "price": 1569.99,
       "priceHistory": [
-        {
-          "p": 1559.99,
-          "t": "2026-10-29T16:33:03.024Z"
-        },
         {
           "p": 1599.99,
           "t": "2026-10-30T07:03:36.369Z"
@@ -2263,13 +2303,17 @@
         {
           "p": 1599.99,
           "t": "2026-11-22T15:36:48.233Z"
+        },
+        {
+          "p": 1569.99,
+          "t": "2026-11-22T21:14:00.454Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 2999.99,
+      "regularPrice": 2299.99,
       "saleEndDate": null,
-      "seller": "Circle Tech",
+      "seller": "Unicore Wholesale Com",
       "sku": "19964307",
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-dell-16-in-large-touchscreen-gaming-on-amd-ryzen-7-250-w-amd-radeon-780m-32gb-ram-2tb-ssd-high-end-38-tops-for-ai-black/19964307"
@@ -2716,42 +2760,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-alienware-15-gaming-laptop-black-intel-core-5-210h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-3050/20200947"
     },
-    "20208436": {
-      "availabilityText": "",
-      "brand": "ASUS",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-11-13T21:43:26.303Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208436.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - ASUS TUF Gaming A16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Windows 11 - Jaeger Grey",
-      "price": 1709.99,
-      "priceHistory": [
-        {
-          "p": 1709.99,
-          "t": "2026-11-17T18:46:46.998Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1999.99,
-      "relistedAt": "2026-11-17T18:46:46.998Z",
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "20208436",
-      "specs": {
-        "refresh": "165 Hz",
-        "screen": "16\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-tuf-gaming-a16-16-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-ddr5-512gb-ssd-geforce-rtx-5060-windows-11-jaeger-grey/20208436"
-    },
     "20209706": {
       "availabilityText": "",
       "brand": null,
@@ -2908,87 +2916,6 @@
       },
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-dell-alienware-15-15-3-wuxga-165hz-gaming-laptop-geforce-rtx-4050-6gb-gddr6-amd-ryzen-5-220-512gb-ssd-16gb-ddr5-backlit-wi-fi-6-win-11-black/20264702"
     },
-    "20265327": {
-      "availabilityText": "",
-      "brand": "Alienware",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-11-05T22:17:10.002Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20265/20265327.jpeg",
-      "lastPriceChangeAt": "2026-11-20T18:43:17.833Z",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - Alienware 15.3\" Gaming Laptop - Black (AMD Ryzen 5 220/16GB RAM/512GB SSD/GeForce RTX 4050/Windows 11 Home)",
-      "price": 1279.99,
-      "priceHistory": [
-        {
-          "p": 1364.99,
-          "t": "2026-11-05T22:17:10.002Z"
-        },
-        {
-          "p": 1279.99,
-          "t": "2026-11-20T18:43:17.833Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1499.99,
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "20265327",
-      "specs": {
-        "cpu": "AMD Ryzen 5 220",
-        "gpu": "GeForce RTX 4050",
-        "ram": "16GB RAM",
-        "screen": "15.3\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-alienware-15-3-gaming-laptop-black-amd-ryzen-5-220-16gb-ram-512gb-ssd-geforce-rtx-4050-windows-11-home/20265327"
-    },
-    "20279982": {
-      "availabilityText": "",
-      "brand": "ASUS",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-11-13T21:43:26.303Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20279/20279982.jpeg",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - ASUS ROG Strix G16 16\" Gaming Laptop - Eclipse Grey (AMD Ryzen 9 8940HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
-      "price": 1879.99,
-      "priceHistory": [
-        {
-          "p": 1879.99,
-          "t": "2026-11-13T21:43:26.303Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 2199.99,
-      "saleEndDate": null,
-      "seller": "PRO OB",
-      "sku": "20279982",
-      "specs": {
-        "cpu": "AMD Ryzen 9 8940HX",
-        "gpu": "GeForce RTX 5060",
-        "ram": "16GB RAM",
-        "screen": "16\"",
-        "storage": "512GB SSD"
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-asus-rog-strix-g16-16-gaming-laptop-eclipse-grey-amd-ryzen-9-8940hx-16gb-ram-512gb-ssd-geforce-rtx-5060-win11/20279982"
-    },
     "20288679": {
       "availabilityText": "",
       "brand": null,
@@ -3070,5 +2997,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-22T15:36:48.233Z"
+  "updatedAt": "2026-11-22T21:14:00.454Z"
 }
