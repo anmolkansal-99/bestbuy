@@ -1533,7 +1533,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19442/19442826.webp",
       "lastPriceChangeAt": "2026-11-07T18:51:09.589Z",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Open Box - Acer Nitro V 17 AI 17.3\" 144Hz Gaming Laptop - AMD Ryzen AI 5-340 - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Black - w/ 1 Year Warranty",
       "price": 1550,
@@ -2210,16 +2210,12 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/199/19964/19964307.png",
-      "lastPriceChangeAt": "2026-11-21T20:56:41.935Z",
+      "lastPriceChangeAt": "2026-11-22T15:36:48.233Z",
       "missCount": 0,
       "model": null,
       "name": "Open Box Dell 16-in Large Touchscreen, Gaming on AMD Ryzen 7 250 w/ AMD Radeon 780M, 32GB RAM, 2TB SSD, High-end 38 TOPS for AI, Black",
-      "price": 1569.99,
+      "price": 1599.99,
       "priceHistory": [
-        {
-          "p": 1599.99,
-          "t": "2026-10-29T09:56:05.301Z"
-        },
         {
           "p": 1559.99,
           "t": "2026-10-29T16:33:03.024Z"
@@ -2263,13 +2259,17 @@
         {
           "p": 1569.99,
           "t": "2026-11-21T20:56:41.935Z"
+        },
+        {
+          "p": 1599.99,
+          "t": "2026-11-22T15:36:48.233Z"
         }
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 2299.99,
+      "regularPrice": 2999.99,
       "saleEndDate": null,
-      "seller": "Unicore Wholesale Com",
+      "seller": "Circle Tech",
       "sku": "19964307",
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-dell-16-in-large-touchscreen-gaming-on-amd-ryzen-7-250-w-amd-radeon-780m-32gb-ram-2tb-ssd-high-end-38-tops-for-ai-black/19964307"
@@ -2729,7 +2729,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20208/20208436.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS TUF Gaming A16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 - 512GB SSD - GeForce RTX 5060 - Windows 11 - Jaeger Grey",
       "price": 1709.99,
@@ -2922,7 +2922,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20265/20265327.jpeg",
       "lastPriceChangeAt": "2026-11-20T18:43:17.833Z",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - Alienware 15.3\" Gaming Laptop - Black (AMD Ryzen 5 220/16GB RAM/512GB SSD/GeForce RTX 4050/Windows 11 Home)",
       "price": 1279.99,
@@ -2964,7 +2964,7 @@
         "storeOnly": false
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/202/20279/20279982.jpeg",
-      "missCount": 1,
+      "missCount": 2,
       "model": null,
       "name": "Open Box - ASUS ROG Strix G16 16\" Gaming Laptop - Eclipse Grey (AMD Ryzen 9 8940HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)",
       "price": 1879.99,
@@ -3070,5 +3070,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-22T07:33:02.736Z"
+  "updatedAt": "2026-11-22T15:36:48.233Z"
 }
