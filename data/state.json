@@ -1420,9 +1420,9 @@
       ],
       "rating": null,
       "ratingCount": 0,
-      "regularPrice": 1199.99,
+      "regularPrice": 1499.99,
       "saleEndDate": null,
-      "seller": "RBSDIST",
+      "seller": "Unlimited Gaming Technology Inc",
       "sku": "17908037",
       "specs": {
         "refresh": "144 Hz",
@@ -1931,7 +1931,7 @@
       },
       "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/195/19513/19513055.jpeg",
       "lastPriceChangeAt": "2026-11-18T17:31:17.833Z",
-      "missCount": 0,
+      "missCount": 1,
       "model": null,
       "name": "Refurbished (Excellent) - MSI Thin 15 15.6\" Gaming Laptop - Cosmos Grey (Intel Core i7-13620H/512GB/16GB RAM/GeForce RTX 4060)",
       "price": 1299,
@@ -2969,5 +2969,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-23T01:43:26.446Z"
+  "updatedAt": "2026-11-23T09:48:22.390Z"
 }
