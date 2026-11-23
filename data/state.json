@@ -470,6 +470,18 @@
       "sku": "19431777",
       "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-15-6-gaming-laptop-amd-ryzen-5-7535hs-8gb-ram-512gb-ssd-rtx3050-windows-11/19431777"
     },
+    "19442826": {
+      "brand": "Acer",
+      "condition": "Open Box",
+      "firstSeenAt": "2026-11-05T16:41:16.227Z",
+      "goneAt": "2026-11-23T01:43:26.446Z",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19442/19442826.webp",
+      "name": "Open Box - Acer Nitro V 17 AI 17.3\" 144Hz Gaming Laptop - AMD Ryzen AI 5-340 - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Black - w/ 1 Year Warranty",
+      "price": 1550,
+      "regularPrice": 1699,
+      "sku": "19442826",
+      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-17-ai-17-3-144hz-gaming-laptop-amd-ryzen-ai-5-340-16gb-ddr5-512gb-ssd-rtx-4050-windows-11-black-w-1-year-warranty/19442826"
+    },
     "19446974": {
       "brand": null,
       "condition": "Refurbished (Excellent)",
@@ -1554,46 +1566,6 @@
       "sku": "19333765",
       "specs": {},
       "url": "https://www.bestbuy.ca/en-ca/product/refurbished-excellent-msi-official-authorized-refurbished-codex-r-gaming-pc-intel-core-i5-12400f-geforce-rtx-4060ti-16gb-ddr5-1tb-ssd-rgb-fan-windows-11-h-keyboard-mouse/19333765"
-    },
-    "19442826": {
-      "availabilityText": "",
-      "brand": "Acer",
-      "buyable": null,
-      "condition": "Open Box",
-      "firstSeenAt": "2026-11-05T16:41:16.227Z",
-      "flags": {
-        "clearance": false,
-        "marketplace": true,
-        "onlineOnly": true,
-        "storeOnly": false
-      },
-      "image": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/194/19442/19442826.webp",
-      "lastPriceChangeAt": "2026-11-07T18:51:09.589Z",
-      "missCount": 2,
-      "model": null,
-      "name": "Open Box - Acer Nitro V 17 AI 17.3\" 144Hz Gaming Laptop - AMD Ryzen AI 5-340 - 16GB DDR5 - 512GB SSD - RTX 4050 - Windows 11 - Black - w/ 1 Year Warranty",
-      "price": 1550,
-      "priceHistory": [
-        {
-          "p": 1250,
-          "t": "2026-11-05T16:41:16.227Z"
-        },
-        {
-          "p": 1550,
-          "t": "2026-11-07T18:51:09.589Z"
-        }
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "regularPrice": 1699,
-      "saleEndDate": null,
-      "seller": "Acer Authorized Canada",
-      "sku": "19442826",
-      "specs": {
-        "refresh": "144 Hz",
-        "screen": "17.3\""
-      },
-      "url": "https://www.bestbuy.ca/en-ca/product/open-box-acer-nitro-v-17-ai-17-3-144hz-gaming-laptop-amd-ryzen-ai-5-340-16gb-ddr5-512gb-ssd-rtx-4050-windows-11-black-w-1-year-warranty/19442826"
     },
     "19446923": {
       "availabilityText": "",
@@ -2997,5 +2969,5 @@
   },
   "outage": null,
   "version": 1,
-  "updatedAt": "2026-11-22T21:14:00.454Z"
+  "updatedAt": "2026-11-23T01:43:26.446Z"
 }
